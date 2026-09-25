@@ -4,16 +4,27 @@ A Power BI project that compares Mexican fintech, SOFIPO, bank and CETES savings
 
 Built as a learning project to practice data modeling and DAX in the Power BI Service.
 
-**Status:** the data, model and build guide are done; the Power BI report pages are in progress, and screenshots will be added here as they are finished.
+**Status:** the data, model and build guide are done. Four report pages are built in the Power BI Service; the report is still in progress, and screenshots will be added here.
 
 ## What it shows
 
-- **How rates moved:** Banxico's target rate from 11.25% (early 2024) to 6.50% (2026), next to snapshots of fintech and SOFIPO rates during 2026.
+- **How rates moved:** Banxico's target rate from 11.25% (early 2024) to 6.50% (2026), next to snapshots of fintech and SOFIPO rates from 2023 to 2026.
 - **Single-product comparison:** for any amount (default 200,000) and horizon (1, 3, 6, 12 months), the gross interest, ISR withheld, net return, effective net rate and protection status of each product.
 - **Split strategies:** six ways to place the money, from "everything in one product" to a split that fills capped promotional tiers first and then the best product after tax and fees. Includes a scenario where on-demand rates fall 0.50 points after 90 days. At 200,000 for a year, the split nets about 12.4% versus 6.3% to 8.7% for any single product.
 - **Savings vs the S&P 500:** a 2025 and 2026 backtest in pesos, a bear/flat/base/bull by peso-strength scenario grid, and portfolios with 0% to 50% in equities. In 2025 the S&P 500 returned 17.9% in dollars but about 2.1% for a peso investor through the SIC, because the peso gained 13.4%.
 
-Institutions covered: Nu, Revolut, Ualá, Banco Plata, Openbank, Mifel (banks); Klar, DiDi, Stori, Finsus, Kubo (SOFIPOs); Mercado Pago (fintech); CETES and the S&P 500 via GBM.
+Institutions covered: Nu, Revolut, Ualá, Banco Plata, Openbank, Mifel (banks); Klar, DiDi, Stori, Finsus, Kubo, Supertasas (SOFIPOs); Mercado Pago (fintech); CETES and the S&P 500 via GBM.
+
+## Rate research: 402 videos
+
+The rate history is cross-checked against the monthly rate roundups of the Germán Mi Amigo Dinero YouTube channel ([@miamigodinero](https://www.youtube.com/@miamigodinero)), from 2023 to September 2026. The captions of 402 of its videos on savings rates, ISR and deposit protection were reviewed. What they show:
+
+- **2023 to 2024:** SOFIPOs paid about 10% to 15%. Stori's 15% with no cap and no conditions (late 2023) started a rate war, and 2024 was the peak of the 15% era, with Nu, Klar and Stori around 15% and Finsus near 16% on long terms. Cuts began in April 2024.
+- **2025 to 2026:** the headline stayed at 15%, but only on small balances, typically the first 10,000 to 25,000 MXN, and often with a requirement: a minimum monthly deposit, card spending, a paid membership or a fixed term. Uncapped on-demand rates in 2026 sit around 7% to 10%, and fixed terms around 10% to 13%.
+- **The pattern:** as Banxico cut from 11.25% to 6.50%, SOFIPOs kept the headline rate by shrinking the balance it applies to and adding conditions. The rate on the whole balance fell much more than the headline suggests.
+- **ISR withholding on capital, by year:** 0.97% (2021), 0.08% (2022), 0.15% (2023), 0.50% (2024 and 2025), 0.90% (2026). SOFIPO interest stays exempt up to 5 annual UMAs of average balance, and SOFIPO deposits are protected by Prosofipo (25,000 UDIs) rather than IPAB (400,000 UDIs).
+
+Figures come from the videos' spoken auto-captions, which can mishear numbers, so each row in `rates_history.csv` links to the video it came from.
 
 ## Rules modeled (2026)
 
@@ -64,7 +75,7 @@ All figures were collected on 2026-09-24. Every row in the CSVs has its own `sou
 - Secondary tax sources on the 2026 withholding rate and the SOFIPO exemption (Siempre Contable, Russell Bedford, Yahoo Noticias / El Financiero); LISR art. 93 via Justia
 - tasas.mx institution pages (Nu, Klar, Revolut, Mercado Pago, market table) and deceroalinfinito.com
 - El Financiero (2026-02-14), Expansión (2026-07-24), N+ (Nu's bank conversion), rendimientosmexico.com (Ualá, Banco Plata), tasas.mx (Openbank), El Cronista (Openbank's earlier cap)
-- YouTube, Germán Mi Amigo Dinero, monthly rate videos from October 2025 to September 2026 (12 videos, links in `rates_history.csv`). Figures come from the spoken auto-captions only; the on-screen tables are not captured, and ambiguous numbers were skipped. Used to fill the monthly history, resolve Klar's two products, confirm Openbank's cap change and Mercado Pago's above-cap rate, and add Mifel.
+- YouTube, Germán Mi Amigo Dinero (youtube.com/@miamigodinero): monthly rate roundups from March 2023 to September 2026, out of 402 videos reviewed (links in `rates_history.csv`). Figures come from the spoken auto-captions only; the on-screen tables are not captured, and ambiguous numbers were skipped. Used to extend the rate history back to 2023, add Supertasas, resolve Klar's two products, confirm Openbank's cap change and Mercado Pago's above-cap rate, add Mifel, and check the ISR withholding history.
 - GBM FAQs (commissions, SIC taxation), BlackRock (IVVPESO), First Trust (S&P 500 2025 total return), ChartRow (2026 year to date), El Financiero and DOF (USD/MXN FIX), Trading Economics (current USD/MXN)
 
 **Known gaps:**
