@@ -1,0 +1,97 @@
+date,institution,product,term_days,rate_annual,balance_cap_mxn,rate_on_excess,conditions,source_url,accessed,verified
+2026-02-14,Nu,Cajita (on demand),0,0.07,,,Nu was a SOFIPO at this date,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Nu,Cajita Turbo,0,0.13,25000,0.07,Monthly debit card purchase,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Nu,Fixed term 7d,7,0.0705,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Nu,Fixed term 28d,28,0.071,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Nu,Fixed term 90d,90,0.072,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Nu,Fixed term 180d,180,0.073,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Revolut,Savings (on demand),0,0.15,25000,0.07,0.07 to 0.075 on 25k-1M; 0.05 above 1M,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Mercado Pago,On demand,0,0.13,25000,,"At least 3,000 MXN monthly deposits",https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Ualá,On demand,0,0.07,30000,,"Base; 12% with 3k monthly spend, 15% with 6k",https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,Klar,On demand (Plus),0,0.15,,,"Klar Plus with 3,000 MXN monthly transactions",https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,CETES (via GBM or Cetesdirecto),CETES 28d,28,0.0688,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,CETES (via GBM or Cetesdirecto),CETES 91d,91,0.07,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,CETES (via GBM or Cetesdirecto),CETES 182d,182,0.071,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-02-14,CETES (via GBM or Cetesdirecto),CETES 364d,364,0.0737,,,,https://www.elfinanciero.com.mx/mis-finanzas/2026/02/14/donde-invertir-mi-dinero-en-2026-estos-son-los-rendimientos-de-cetes-nu-revolut-y-otras-fintech/,2026-09-24,secondary
+2026-07-24,Nu,Cajita (on demand),0,0.065,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Nu,Cajita Turbo,0,0.13,25000,0.065,Monthly debit card purchase,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Nu,Fixed term 7d,7,0.0655,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Nu,Fixed term 180d,180,0.068,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Mercado Pago,On demand,0,0.12,25000,0.06,"3,000+ MXN monthly deposits, otherwise 6%",https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Klar,On demand (Plus/Platino),0,0.15,,,"2,500 MXN monthly card spend; 6.5% for other users",https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,Kubo Financiero,Fixed term 365d,365,0.12,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,CETES (via GBM or Cetesdirecto),CETES 28d,28,0.0618,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,CETES (via GBM or Cetesdirecto),CETES 91d,91,0.0649,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,CETES (via GBM or Cetesdirecto),CETES 182d,182,0.0675,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-07-24,CETES (via GBM or Cetesdirecto),CETES 364d,364,0.0693,,,,https://expansion.mx/finanzas-personales/2026/07/24/nu-klar-mercado-pago-cetes-cual-da-mas-rendimiento,2026-09-24,yes
+2026-08-16,Mercado Pago,On demand,0,0.12,25000,,,https://www.tasas.mx/institucion/mercadopago,2026-09-24,yes
+2026-09-01,Mercado Pago,Apartados with Meli+,0,0.15,25000,,Paid Meli+ subscription; 12% without it,https://www.tasas.mx/institucion/mercadopago,2026-09-24,yes
+2026-08-29,Revolut,Savings (on demand),0,0.15,25000,0.07,"4 purchases of at least 50 MXN every 30 days, or Premium/Metal plan; excess earns 7-7.5%",https://www.tasas.mx/institucion/revolut,2026-09-24,yes
+2026-08-12,Banco Plata,Ahorro Ultra (new accounts),0,0.15,25000,0.07,First 60 days only,https://www.jornada.com.mx/noticia/2026/08/12/economia/plata-entra-a-las-cuentas-de-ahorro-ofrecera-rendimientos-de-hasta-15,2026-09-24,yes
+2026-08-12,Banco Plata,Ahorro Flexible (Plata+),0,0.1,,,Plata+ membership,https://www.rendimientosmexico.com/instrumentos/plata,2026-09-24,secondary
+2025-10-04,Klar,Inversión Max (Plus/Platino),0,0.15,25000,,New product this month,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en OCTUBRE 2025?, 2025-10-04, https://www.youtube.com/watch?v=7jNCqK43Fkc",2026-09-24,video (auto-captions)
+2025-10-04,Openbank,Apartados Open,0,0.1,,,No cap,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en OCTUBRE 2025?, 2025-10-04, https://www.youtube.com/watch?v=7jNCqK43Fkc",2026-09-24,video (auto-captions)
+2025-11-04,DiDi,On demand,0,0.16,10000,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en NOVIEMBRE 2025?, 2025-11-04, https://www.youtube.com/watch?v=FYmxm2lTYvQ",2026-09-24,video (auto-captions)
+2025-11-04,Klar,Inversión Max (Plus/Platino),0,0.15,25000,,"Spend 3,000 monthly","Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en NOVIEMBRE 2025?, 2025-11-04, https://www.youtube.com/watch?v=FYmxm2lTYvQ",2026-09-24,video (auto-captions)
+2025-11-04,Mercado Pago,On demand,0,0.13,25000,,Most users; some got 15% in Apartados,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en NOVIEMBRE 2025?, 2025-11-04, https://www.youtube.com/watch?v=FYmxm2lTYvQ",2026-09-24,video (auto-captions)
+2025-11-04,Openbank,Apartados Open,0,0.1,,,Guaranteed for November,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en NOVIEMBRE 2025?, 2025-11-04, https://www.youtube.com/watch?v=FYmxm2lTYvQ",2026-09-24,video (auto-captions)
+2025-11-04,Mifel,Cuenta Digital,0,0.1,,,Valid until 2026-04-30,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en NOVIEMBRE 2025?, 2025-11-04, https://www.youtube.com/watch?v=FYmxm2lTYvQ",2026-09-24,video (auto-captions)
+2025-12-03,DiDi,On demand,0,0.16,10000,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en DICIEMBRE 2025?, 2025-12-03, https://www.youtube.com/watch?v=-rDq0PLHGs4",2026-09-24,video (auto-captions)
+2025-12-03,Nu,Cajita Turbo,0,0.15,25000,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en DICIEMBRE 2025?, 2025-12-03, https://www.youtube.com/watch?v=-rDq0PLHGs4",2026-09-24,video (auto-captions)
+2025-12-03,Klar,Inversión Max (Plus/Platino),0,0.15,25000,,"Spend 3,000 monthly or Platino card","Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en DICIEMBRE 2025?, 2025-12-03, https://www.youtube.com/watch?v=-rDq0PLHGs4",2026-09-24,video (auto-captions)
+2025-12-03,Openbank,Apartados Open,0,0.1,,,No cap,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en DICIEMBRE 2025?, 2025-12-03, https://www.youtube.com/watch?v=-rDq0PLHGs4",2026-09-24,video (auto-captions)
+2026-01-07,Mercado Pago,On demand,0,0.13,25000,,"Deposit 3,000 monthly","Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en ENERO 2026?, 2026-01-07, https://www.youtube.com/watch?v=zOLucpISr7c",2026-09-24,video (auto-captions)
+2026-01-07,Mifel,Cuenta Digital,0,0.1,,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en ENERO 2026?, 2026-01-07, https://www.youtube.com/watch?v=zOLucpISr7c",2026-09-24,video (auto-captions)
+2026-02-04,Openbank,Apartados Open,0,0.09,,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en FEBRERO 2026?, 2026-02-04, https://www.youtube.com/watch?v=tqd4ME8JhSM",2026-09-24,video (auto-captions)
+2026-02-04,Revolut,Savings (on demand),0,0.15,25000,,Launch; no condition,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en FEBRERO 2026?, 2026-02-04, https://www.youtube.com/watch?v=tqd4ME8JhSM",2026-09-24,video (auto-captions)
+2026-02-04,Klar,Inversión Max (Plus/Platino),0,0.15,25000,,"Spend 3,000 monthly","Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en FEBRERO 2026?, 2026-02-04, https://www.youtube.com/watch?v=tqd4ME8JhSM",2026-09-24,video (auto-captions)
+2026-03-04,Mifel,Cuenta Digital,0,0.1,500000,,No conditions,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en MARZO 2026?, 2026-03-04, https://www.youtube.com/watch?v=ojcXlOxs5wI",2026-09-24,video (auto-captions)
+2026-03-04,Openbank,Apartados Open,0,0.09,,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en MARZO 2026?, 2026-03-04, https://www.youtube.com/watch?v=ojcXlOxs5wI",2026-09-24,video (auto-captions)
+2026-03-04,Klar,Fixed term 365d,365,0.1,,,,"Germán Mi Amigo Dinero, ¿Quién PAGA MÁS en MARZO 2026?, 2026-03-04, https://www.youtube.com/watch?v=ojcXlOxs5wI",2026-09-24,video (auto-captions)
+2026-04-04,Banco Plata,Ahorro Flexible (Plata+),0,0.12,,,Launch,"Germán Mi Amigo Dinero, DÓNDE invertir en abril 2026, 2026-04-04, https://www.youtube.com/watch?v=lSHPp29G8jo",2026-09-24,video (auto-captions)
+2026-04-04,Banco Plata,Fixed term 30d (Plata+),30,0.09,,,7% without membership,"Germán Mi Amigo Dinero, DÓNDE invertir en abril 2026, 2026-04-04, https://www.youtube.com/watch?v=lSHPp29G8jo",2026-09-24,video (auto-captions)
+2026-05-07,Mercado Pago,On demand,0,0.1,,,"25,000 cap removed mid April","Germán Mi Amigo Dinero, Mis inversiones FAVORITAS en mayo 2026, 2026-05-07, https://www.youtube.com/watch?v=DyNDCgcdDdM",2026-09-24,video (auto-captions)
+2026-05-07,Openbank,Apartados Open,0,0.13,40000,,,"Germán Mi Amigo Dinero, Mis inversiones FAVORITAS en mayo 2026, 2026-05-07, https://www.youtube.com/watch?v=DyNDCgcdDdM",2026-09-24,video (auto-captions)
+2026-05-07,Banco Plata,Ahorro Flexible (Plata+),0,0.1,,,,"Germán Mi Amigo Dinero, Mis inversiones FAVORITAS en mayo 2026, 2026-05-07, https://www.youtube.com/watch?v=DyNDCgcdDdM",2026-09-24,video (auto-captions)
+2026-05-07,Klar,Fixed term 7d,7,0.081,,,,"Germán Mi Amigo Dinero, Mis inversiones FAVORITAS en mayo 2026, 2026-05-07, https://www.youtube.com/watch?v=DyNDCgcdDdM",2026-09-24,video (auto-captions)
+2026-06-04,Nu,Cajita Turbo,0,0.13,25000,,,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... Junio, 2026-06-04, https://www.youtube.com/watch?v=4-ZB5rI_WnA",2026-09-24,video (auto-captions)
+2026-06-04,Klar,Inversión Max (Plus/Platino),0,0.15,25000,,"Spend requirement cut to 2,500","Germán Mi Amigo Dinero, Las Tasas Cambiaron... Junio, 2026-06-04, https://www.youtube.com/watch?v=4-ZB5rI_WnA",2026-09-24,video (auto-captions)
+2026-07-05,Kubo Financiero,Fixed term 365d,365,0.12,,,"No cap, no conditions","Germán Mi Amigo Dinero, Las Tasas Cambiaron... Julio, 2026-07-05, https://www.youtube.com/watch?v=YcVJv9_32r4",2026-09-24,video (auto-captions)
+2026-08-07,Openbank,Apartados Open,0,0.13,30000,,"Cap cut from 40,000","Germán Mi Amigo Dinero, Las Tasas Cambiaron... Agosto 2026, 2026-08-07, https://www.youtube.com/watch?v=xoA6vk1q0Mo",2026-09-24,video (auto-captions)
+2026-08-07,Banco Plata,Ahorro Ultra (new accounts),0,0.15,25000,,,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... Agosto 2026, 2026-08-07, https://www.youtube.com/watch?v=xoA6vk1q0Mo",2026-09-24,video (auto-captions)
+2026-08-07,Banco Plata,Ahorro Flexible (Plata+),0,0.09,,,Was 10% with no cap,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... Agosto 2026, 2026-08-07, https://www.youtube.com/watch?v=xoA6vk1q0Mo",2026-09-24,video (auto-captions)
+2026-09-05,Mercado Pago,Apartados with Meli+,0,0.15,25000,0.0,Cap shared with the 12% option; nothing above it,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... SEPTIEMBRE 2026, 2026-09-05, https://www.youtube.com/watch?v=2cCeCmegbkI",2026-09-24,video (auto-captions)
+2026-09-05,Mercado Pago,On demand (no Meli+),0,0.12,25000,0.0,"Deposit 3,000 or spend 1,000-3,000 monthly","Germán Mi Amigo Dinero, Las Tasas Cambiaron... SEPTIEMBRE 2026, 2026-09-05, https://www.youtube.com/watch?v=2cCeCmegbkI",2026-09-24,video (auto-captions)
+2026-09-05,Kubo Financiero,1-day term,1,0.1,,,Cut from 13%,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... SEPTIEMBRE 2026, 2026-09-05, https://www.youtube.com/watch?v=2cCeCmegbkI",2026-09-24,video (auto-captions)
+2026-09-05,Finsus,Cosecha 4 months,120,0.11,,,No membership,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... SEPTIEMBRE 2026, 2026-09-05, https://www.youtube.com/watch?v=2cCeCmegbkI",2026-09-24,video (auto-captions)
+2026-09-05,DiDi,On demand,0,0.15,10000,,Only 15% with no condition or time limit,"Germán Mi Amigo Dinero, Las Tasas Cambiaron... SEPTIEMBRE 2026, 2026-09-05, https://www.youtube.com/watch?v=2cCeCmegbkI",2026-09-24,video (auto-captions)
+2026-09-24,Nu,Cajita (on demand),0,0.065,,,,https://www.nmas.com.mx/economia/finanzas-personales/nu-ya-es-un-banco-en-mexico-esto-significa-para-cuentahabientes-y-que-cambia-en-2026/,2026-09-24,yes
+2026-09-24,Nu,Cajita Turbo,0,0.13,25000,0.065,Monthly debit card purchase,https://www.nmas.com.mx/economia/finanzas-personales/nu-ya-es-un-banco-en-mexico-esto-significa-para-cuentahabientes-y-que-cambia-en-2026/,2026-09-24,yes
+2026-09-24,Nu,Fixed term 7d,7,0.0655,,,,https://www.tasas.mx/institucion/nu,2026-09-24,yes
+2026-09-24,Nu,Fixed term 180d,180,0.068,,,,https://www.tasas.mx/institucion/nu,2026-09-24,yes
+2026-09-24,Ualá,On demand (Plus),0,0.15,30000,0.0675,Plus level; base account about 6.75%,https://www.rendimientosmexico.com/instrumentos/uala,2026-09-24,secondary
+2026-09-24,Klar,On demand (Plus/Platino),0,0.08,,,Regular balance; 6% standard. The 15% is the separate Inversión Max product,https://www.tasas.mx/institucion/klar,2026-09-24,yes
+2026-09-24,Klar,Inversión Max (Plus/Platino),0,0.15,25000,0.08,"2,500 monthly spend; cap from video (Dec 2025)",https://deceroalinfinito.com/mejores-sofipos,2026-09-24,yes (cap from video)
+2026-09-24,Klar,Fixed term 365d (Plus/Platino),365,0.085,,,Plus/Platino,https://www.tasas.mx/institucion/klar,2026-09-24,yes
+2026-09-24,Banco Plata,Ahorro Flexible (base),0,0.07,,,,https://www.rendimientosmexico.com/instrumentos/plata,2026-09-24,secondary
+2026-09-24,Banco Plata,Ahorro Flexible (Plata+),0,0.09,,,99 MXN + IVA monthly; cut from 10% in Aug 2026,https://www.rendimientosmexico.com/instrumentos/plata,2026-09-24,secondary
+2026-09-24,Banco Plata,Fixed term 360d (Plata+),365,0.11,,,Plata+; base terms 7-8%,https://www.rendimientosmexico.com/instrumentos/plata,2026-09-24,secondary
+2026-09-14,Openbank,Apartados Open,0,0.13,30000,0.07,Open+ debit account; 6.5% above 1M,https://www.tasas.mx/institucion/openbank,2026-09-24,conflict (see institutions)
+2026-09-24,Mercado Pago,On demand (no Meli+),0,0.12,25000,,Without subscription,https://www.tasas.mx/institucion/mercadopago,2026-09-24,yes
+2026-09-24,DiDi,On demand,0,0.15,10000,,"Rate on balance above 10,000 not found",https://www.tasas.mx/,2026-09-24,yes (excess rate unverified)
+2026-09-24,Stori,On demand,0,0.0725,,,,https://deceroalinfinito.com/mejores-sofipos,2026-09-24,yes
+2026-09-24,Stori,Fixed term 30d,30,0.0705,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Stori,Fixed term 90d,90,0.11,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Stori,Fixed term 180d,180,0.1,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Stori,Fixed term 365d,365,0.0825,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Finsus,On demand,0,0.0701,,,,https://deceroalinfinito.com/mejores-sofipos,2026-09-24,yes
+2026-09-24,Finsus,Fixed term 30d,30,0.0719,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Finsus,Fixed term 90d,90,0.075,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Finsus,Fixed term 180d,180,0.0759,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Finsus,Fixed term 365d,365,0.0869,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Kubo Financiero,Fixed term 90d,90,0.11,,,Withdrawal problems reported May-Jun 2026,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,Kubo Financiero,Fixed term 365d,365,0.12,,,Withdrawal problems reported May-Jun 2026,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,CETES (via GBM or Cetesdirecto),CETES 28d,28,0.0615,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,CETES (via GBM or Cetesdirecto),CETES 91d,91,0.0659,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,CETES (via GBM or Cetesdirecto),CETES 182d,182,0.0691,,,,https://www.tasas.mx/,2026-09-24,yes
+2026-09-24,CETES (via GBM or Cetesdirecto),CETES 364d,364,0.0724,,,,https://www.tasas.mx/,2026-09-24,yes

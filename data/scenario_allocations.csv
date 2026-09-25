@@ -1,0 +1,657 @@
+strategy,amount_mxn,horizon_days,rate_shock_bp,institution,type,product,term_days,rate_annual,allocated_mxn,gross_interest_mxn
+A. All in Stori on demand (SOFIPO),50000,30,0,Stori,SOFIPO,On demand,0,0.0725,50000,297.95
+B. All in Nu Cajita (bank),50000,30,0,Nu,Bank,Cajita (on demand),0,0.065,50000,267.12
+C. All in CETES (GBM),50000,30,0,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,50000,252.74
+D. All in best SOFIPO fixed term,50000,30,0,Finsus,SOFIPO,Fixed term 30d,30,0.0719,50000,295.48
+"E. Split, protected products only",50000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",50000,30,0,Ualá,Bank,On demand (Plus),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",50000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",50000,30,0,Ualá,Bank,On demand (Plus),0,0.15,25000,308.22
+A. All in Stori on demand (SOFIPO),50000,30,50,Stori,SOFIPO,On demand,0,0.0725,50000,297.95
+B. All in Nu Cajita (bank),50000,30,50,Nu,Bank,Cajita (on demand),0,0.065,50000,267.12
+C. All in CETES (GBM),50000,30,50,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,50000,252.74
+D. All in best SOFIPO fixed term,50000,30,50,Finsus,SOFIPO,Fixed term 30d,30,0.0719,50000,295.48
+"E. Split, protected products only",50000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",50000,30,50,Ualá,Bank,On demand (Plus),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",50000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",50000,30,50,Ualá,Bank,On demand (Plus),0,0.15,25000,308.22
+A. All in Stori on demand (SOFIPO),50000,90,0,Stori,SOFIPO,On demand,0,0.0725,50000,893.84
+B. All in Nu Cajita (bank),50000,90,0,Nu,Bank,Cajita (on demand),0,0.065,50000,801.37
+C. All in CETES (GBM),50000,90,0,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,50000,812.47
+D. All in best SOFIPO fixed term,50000,90,0,Stori,SOFIPO,Fixed term 90d,90,0.11,50000,1356.16
+"E. Split, protected products only",50000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",50000,90,0,Ualá,Bank,On demand (Plus),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",50000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",50000,90,0,Ualá,Bank,On demand (Plus),0,0.15,25000,924.66
+A. All in Stori on demand (SOFIPO),50000,90,50,Stori,SOFIPO,On demand,0,0.0725,50000,893.84
+B. All in Nu Cajita (bank),50000,90,50,Nu,Bank,Cajita (on demand),0,0.065,50000,801.37
+C. All in CETES (GBM),50000,90,50,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,50000,812.47
+D. All in best SOFIPO fixed term,50000,90,50,Stori,SOFIPO,Fixed term 90d,90,0.11,50000,1356.16
+"E. Split, protected products only",50000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",50000,90,50,Ualá,Bank,On demand (Plus),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",50000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",50000,90,50,Ualá,Bank,On demand (Plus),0,0.15,25000,924.66
+A. All in Stori on demand (SOFIPO),50000,180,0,Stori,SOFIPO,On demand,0,0.0725,50000,1787.67
+B. All in Nu Cajita (bank),50000,180,0,Nu,Bank,Cajita (on demand),0,0.065,50000,1602.74
+C. All in CETES (GBM),50000,180,0,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,50000,1703.84
+D. All in best SOFIPO fixed term,50000,180,0,Stori,SOFIPO,Fixed term 180d,180,0.1,50000,2465.75
+"E. Split, protected products only",50000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"E. Split, protected products only",50000,180,0,Ualá,Bank,On demand (Plus),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",50000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",50000,180,0,Ualá,Bank,On demand (Plus),0,0.15,25000,1849.32
+A. All in Stori on demand (SOFIPO),50000,180,50,Stori,SOFIPO,On demand,0,0.0725,50000,1726.03
+B. All in Nu Cajita (bank),50000,180,50,Nu,Bank,Cajita (on demand),0,0.065,50000,1541.1
+C. All in CETES (GBM),50000,180,50,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,50000,1703.84
+D. All in best SOFIPO fixed term,50000,180,50,Stori,SOFIPO,Fixed term 180d,180,0.1,50000,2465.75
+"E. Split, protected products only",50000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"E. Split, protected products only",50000,180,50,Ualá,Bank,On demand (Plus),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",50000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",50000,180,50,Ualá,Bank,On demand (Plus),0,0.15,25000,1818.49
+A. All in Stori on demand (SOFIPO),50000,365,0,Stori,SOFIPO,On demand,0,0.0725,50000,3625.0
+B. All in Nu Cajita (bank),50000,365,0,Nu,Bank,Cajita (on demand),0,0.065,50000,3250.0
+C. All in CETES (GBM),50000,365,0,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,50000,3620.0
+D. All in best SOFIPO fixed term,50000,365,0,Finsus,SOFIPO,Fixed term 365d,365,0.0869,50000,4345.0
+"E. Split, protected products only",50000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"E. Split, protected products only",50000,365,0,Ualá,Bank,On demand (Plus),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",50000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",50000,365,0,Ualá,Bank,On demand (Plus),0,0.15,25000,3750.0
+A. All in Stori on demand (SOFIPO),50000,365,50,Stori,SOFIPO,On demand,0,0.0725,50000,3436.64
+B. All in Nu Cajita (bank),50000,365,50,Nu,Bank,Cajita (on demand),0,0.065,50000,3061.64
+C. All in CETES (GBM),50000,365,50,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,50000,3620.0
+D. All in best SOFIPO fixed term,50000,365,50,Finsus,SOFIPO,Fixed term 365d,365,0.0869,50000,4345.0
+"E. Split, protected products only",50000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"E. Split, protected products only",50000,365,50,Ualá,Bank,On demand (Plus),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",50000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",50000,365,50,Ualá,Bank,On demand (Plus),0,0.15,25000,3655.82
+A. All in Stori on demand (SOFIPO),100000,30,0,Stori,SOFIPO,On demand,0,0.0725,100000,595.89
+B. All in Nu Cajita (bank),100000,30,0,Nu,Bank,Cajita (on demand),0,0.065,100000,534.25
+C. All in CETES (GBM),100000,30,0,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,100000,505.48
+D. All in best SOFIPO fixed term,100000,30,0,Finsus,SOFIPO,Fixed term 30d,30,0.0719,100000,590.96
+"E. Split, protected products only",100000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",100000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",100000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",100000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",100000,30,0,Nu,Bank,Cajita Turbo,0,0.13,10000,106.85
+"F. Split, including Mercado Pago",100000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",100000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",100000,30,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",100000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",100000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,123.29
+A. All in Stori on demand (SOFIPO),100000,30,50,Stori,SOFIPO,On demand,0,0.0725,100000,595.89
+B. All in Nu Cajita (bank),100000,30,50,Nu,Bank,Cajita (on demand),0,0.065,100000,534.25
+C. All in CETES (GBM),100000,30,50,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,100000,505.48
+D. All in best SOFIPO fixed term,100000,30,50,Finsus,SOFIPO,Fixed term 30d,30,0.0719,100000,590.96
+"E. Split, protected products only",100000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",100000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",100000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",100000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",100000,30,50,Nu,Bank,Cajita Turbo,0,0.13,10000,106.85
+"F. Split, including Mercado Pago",100000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",100000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",100000,30,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",100000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",100000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,123.29
+A. All in Stori on demand (SOFIPO),100000,90,0,Stori,SOFIPO,On demand,0,0.0725,100000,1787.67
+B. All in Nu Cajita (bank),100000,90,0,Nu,Bank,Cajita (on demand),0,0.065,100000,1602.74
+C. All in CETES (GBM),100000,90,0,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,100000,1624.93
+D. All in best SOFIPO fixed term,100000,90,0,Stori,SOFIPO,Fixed term 90d,90,0.11,100000,2712.33
+"E. Split, protected products only",100000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",100000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",100000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",100000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",100000,90,0,Nu,Bank,Cajita Turbo,0,0.13,10000,320.55
+"F. Split, including Mercado Pago",100000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",100000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",100000,90,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",100000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",100000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,369.86
+A. All in Stori on demand (SOFIPO),100000,90,50,Stori,SOFIPO,On demand,0,0.0725,100000,1787.67
+B. All in Nu Cajita (bank),100000,90,50,Nu,Bank,Cajita (on demand),0,0.065,100000,1602.74
+C. All in CETES (GBM),100000,90,50,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,100000,1624.93
+D. All in best SOFIPO fixed term,100000,90,50,Stori,SOFIPO,Fixed term 90d,90,0.11,100000,2712.33
+"E. Split, protected products only",100000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",100000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",100000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",100000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",100000,90,50,Nu,Bank,Cajita Turbo,0,0.13,10000,320.55
+"F. Split, including Mercado Pago",100000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",100000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",100000,90,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",100000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",100000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,369.86
+A. All in Stori on demand (SOFIPO),100000,180,0,Stori,SOFIPO,On demand,0,0.0725,100000,3575.34
+B. All in Nu Cajita (bank),100000,180,0,Nu,Bank,Cajita (on demand),0,0.065,100000,3205.48
+C. All in CETES (GBM),100000,180,0,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,100000,3407.67
+D. All in best SOFIPO fixed term,100000,180,0,Stori,SOFIPO,Fixed term 180d,180,0.1,100000,4931.51
+"E. Split, protected products only",100000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"E. Split, protected products only",100000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"E. Split, protected products only",100000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"E. Split, protected products only",100000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"E. Split, protected products only",100000,180,0,Nu,Bank,Cajita Turbo,0,0.13,10000,641.1
+"F. Split, including Mercado Pago",100000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",100000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"F. Split, including Mercado Pago",100000,180,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",100000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"F. Split, including Mercado Pago",100000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,739.73
+A. All in Stori on demand (SOFIPO),100000,180,50,Stori,SOFIPO,On demand,0,0.0725,100000,3452.05
+B. All in Nu Cajita (bank),100000,180,50,Nu,Bank,Cajita (on demand),0,0.065,100000,3082.19
+C. All in CETES (GBM),100000,180,50,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,100000,3407.67
+D. All in best SOFIPO fixed term,100000,180,50,Stori,SOFIPO,Fixed term 180d,180,0.1,100000,4931.51
+"E. Split, protected products only",100000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"E. Split, protected products only",100000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"E. Split, protected products only",100000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"E. Split, protected products only",100000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"E. Split, protected products only",100000,180,50,Nu,Bank,Cajita Turbo,0,0.13,10000,628.77
+"F. Split, including Mercado Pago",100000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",100000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"F. Split, including Mercado Pago",100000,180,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",100000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"F. Split, including Mercado Pago",100000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,727.4
+A. All in Stori on demand (SOFIPO),100000,365,0,Stori,SOFIPO,On demand,0,0.0725,100000,7250.0
+B. All in Nu Cajita (bank),100000,365,0,Nu,Bank,Cajita (on demand),0,0.065,100000,6500.0
+C. All in CETES (GBM),100000,365,0,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,100000,7240.0
+D. All in best SOFIPO fixed term,100000,365,0,Finsus,SOFIPO,Fixed term 365d,365,0.0869,100000,8690.0
+"E. Split, protected products only",100000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"E. Split, protected products only",100000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"E. Split, protected products only",100000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"E. Split, protected products only",100000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"E. Split, protected products only",100000,365,0,Nu,Bank,Cajita Turbo,0,0.13,10000,1300.0
+"F. Split, including Mercado Pago",100000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",100000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"F. Split, including Mercado Pago",100000,365,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",100000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"F. Split, including Mercado Pago",100000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,1500.0
+A. All in Stori on demand (SOFIPO),100000,365,50,Stori,SOFIPO,On demand,0,0.0725,100000,6873.29
+B. All in Nu Cajita (bank),100000,365,50,Nu,Bank,Cajita (on demand),0,0.065,100000,6123.29
+C. All in CETES (GBM),100000,365,50,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,100000,7240.0
+D. All in best SOFIPO fixed term,100000,365,50,Finsus,SOFIPO,Fixed term 365d,365,0.0869,100000,8690.0
+"E. Split, protected products only",100000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"E. Split, protected products only",100000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"E. Split, protected products only",100000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"E. Split, protected products only",100000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"E. Split, protected products only",100000,365,50,Nu,Bank,Cajita Turbo,0,0.13,10000,1262.33
+"F. Split, including Mercado Pago",100000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",100000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"F. Split, including Mercado Pago",100000,365,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",100000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"F. Split, including Mercado Pago",100000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,10000,1462.33
+A. All in Stori on demand (SOFIPO),200000,30,0,Stori,SOFIPO,On demand,0,0.0725,200000,1191.78
+B. All in Nu Cajita (bank),200000,30,0,Nu,Bank,Cajita (on demand),0,0.065,200000,1068.49
+C. All in CETES (GBM),200000,30,0,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,200000,1010.96
+D. All in best SOFIPO fixed term,200000,30,0,Finsus,SOFIPO,Fixed term 30d,30,0.0719,200000,1181.92
+"E. Split, protected products only",200000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",200000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",200000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",200000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",200000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",200000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",200000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,55000,452.05
+"F. Split, including Mercado Pago",200000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",200000,30,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",200000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",200000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",200000,30,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",200000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,5000,41.1
+A. All in Stori on demand (SOFIPO),200000,30,50,Stori,SOFIPO,On demand,0,0.0725,200000,1191.78
+B. All in Nu Cajita (bank),200000,30,50,Nu,Bank,Cajita (on demand),0,0.065,200000,1068.49
+C. All in CETES (GBM),200000,30,50,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,200000,1010.96
+D. All in best SOFIPO fixed term,200000,30,50,Finsus,SOFIPO,Fixed term 30d,30,0.0719,200000,1181.92
+"E. Split, protected products only",200000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",200000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",200000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",200000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",200000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",200000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",200000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,55000,452.05
+"F. Split, including Mercado Pago",200000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",200000,30,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",200000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",200000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",200000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",200000,30,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",200000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,5000,41.1
+A. All in Stori on demand (SOFIPO),200000,90,0,Stori,SOFIPO,On demand,0,0.0725,200000,3575.34
+B. All in Nu Cajita (bank),200000,90,0,Nu,Bank,Cajita (on demand),0,0.065,200000,3205.48
+C. All in CETES (GBM),200000,90,0,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,200000,3249.86
+D. All in best SOFIPO fixed term,200000,90,0,Stori,SOFIPO,Fixed term 90d,90,0.11,200000,5424.66
+"E. Split, protected products only",200000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",200000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",200000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",200000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",200000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",200000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",200000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,55000,1356.16
+"F. Split, including Mercado Pago",200000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",200000,90,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",200000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",200000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",200000,90,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",200000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,5000,123.29
+A. All in Stori on demand (SOFIPO),200000,90,50,Stori,SOFIPO,On demand,0,0.0725,200000,3575.34
+B. All in Nu Cajita (bank),200000,90,50,Nu,Bank,Cajita (on demand),0,0.065,200000,3205.48
+C. All in CETES (GBM),200000,90,50,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,200000,3249.86
+D. All in best SOFIPO fixed term,200000,90,50,Stori,SOFIPO,Fixed term 90d,90,0.11,200000,5424.66
+"E. Split, protected products only",200000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",200000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",200000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",200000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",200000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",200000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",200000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,55000,1356.16
+"F. Split, including Mercado Pago",200000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",200000,90,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",200000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",200000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",200000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",200000,90,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",200000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,5000,123.29
+A. All in Stori on demand (SOFIPO),200000,180,0,Stori,SOFIPO,On demand,0,0.0725,200000,7150.68
+B. All in Nu Cajita (bank),200000,180,0,Nu,Bank,Cajita (on demand),0,0.065,200000,6410.96
+C. All in CETES (GBM),200000,180,0,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,200000,6815.34
+D. All in best SOFIPO fixed term,200000,180,0,Stori,SOFIPO,Fixed term 180d,180,0.1,200000,9863.01
+"E. Split, protected products only",200000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"E. Split, protected products only",200000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"E. Split, protected products only",200000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"E. Split, protected products only",200000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"E. Split, protected products only",200000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"E. Split, protected products only",200000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"E. Split, protected products only",200000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,55000,2712.33
+"F. Split, including Mercado Pago",200000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",200000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"F. Split, including Mercado Pago",200000,180,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",200000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"F. Split, including Mercado Pago",200000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",200000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"F. Split, including Mercado Pago",200000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"F. Split, including Mercado Pago",200000,180,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1479.45
+"F. Split, including Mercado Pago",200000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,5000,246.58
+A. All in Stori on demand (SOFIPO),200000,180,50,Stori,SOFIPO,On demand,0,0.0725,200000,6904.11
+B. All in Nu Cajita (bank),200000,180,50,Nu,Bank,Cajita (on demand),0,0.065,200000,6164.38
+C. All in CETES (GBM),200000,180,50,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,200000,6815.34
+D. All in best SOFIPO fixed term,200000,180,50,Stori,SOFIPO,Fixed term 180d,180,0.1,200000,9863.01
+"E. Split, protected products only",200000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"E. Split, protected products only",200000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"E. Split, protected products only",200000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"E. Split, protected products only",200000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"E. Split, protected products only",200000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"E. Split, protected products only",200000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"E. Split, protected products only",200000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,55000,2644.52
+"F. Split, including Mercado Pago",200000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",200000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"F. Split, including Mercado Pago",200000,180,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",200000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"F. Split, including Mercado Pago",200000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",200000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"F. Split, including Mercado Pago",200000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"F. Split, including Mercado Pago",200000,180,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1448.63
+"F. Split, including Mercado Pago",200000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,5000,240.41
+A. All in Stori on demand (SOFIPO),200000,365,0,Stori,SOFIPO,On demand,0,0.0725,200000,14500.0
+B. All in Nu Cajita (bank),200000,365,0,Nu,Bank,Cajita (on demand),0,0.065,200000,13000.0
+C. All in CETES (GBM),200000,365,0,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,200000,14480.0
+D. All in best SOFIPO fixed term,200000,365,0,Finsus,SOFIPO,Fixed term 365d,365,0.0869,200000,17380.0
+"E. Split, protected products only",200000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"E. Split, protected products only",200000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"E. Split, protected products only",200000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"E. Split, protected products only",200000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"E. Split, protected products only",200000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"E. Split, protected products only",200000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"E. Split, protected products only",200000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,55000,5500.0
+"F. Split, including Mercado Pago",200000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",200000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"F. Split, including Mercado Pago",200000,365,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",200000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"F. Split, including Mercado Pago",200000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",200000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"F. Split, including Mercado Pago",200000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"F. Split, including Mercado Pago",200000,365,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,3000.0
+"F. Split, including Mercado Pago",200000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,5000,500.0
+A. All in Stori on demand (SOFIPO),200000,365,50,Stori,SOFIPO,On demand,0,0.0725,200000,13746.58
+B. All in Nu Cajita (bank),200000,365,50,Nu,Bank,Cajita (on demand),0,0.065,200000,12246.58
+C. All in CETES (GBM),200000,365,50,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,200000,14480.0
+D. All in best SOFIPO fixed term,200000,365,50,Finsus,SOFIPO,Fixed term 365d,365,0.0869,200000,17380.0
+"E. Split, protected products only",200000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"E. Split, protected products only",200000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"E. Split, protected products only",200000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"E. Split, protected products only",200000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"E. Split, protected products only",200000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"E. Split, protected products only",200000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"E. Split, protected products only",200000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,55000,5292.81
+"F. Split, including Mercado Pago",200000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",200000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"F. Split, including Mercado Pago",200000,365,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",200000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"F. Split, including Mercado Pago",200000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",200000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"F. Split, including Mercado Pago",200000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"F. Split, including Mercado Pago",200000,365,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,2905.82
+"F. Split, including Mercado Pago",200000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,5000,481.16
+A. All in Stori on demand (SOFIPO),300000,30,0,Stori,SOFIPO,On demand,0,0.0725,300000,1787.67
+B. All in Nu Cajita (bank),300000,30,0,Nu,Bank,Cajita (on demand),0,0.065,300000,1602.74
+C. All in CETES (GBM),300000,30,0,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,300000,1516.44
+D. All in best SOFIPO fixed term,300000,30,0,Finsus,SOFIPO,Fixed term 30d,30,0.0719,300000,1772.88
+"E. Split, protected products only",300000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",300000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",300000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",300000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",300000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",300000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",300000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,155000,1273.97
+"F. Split, including Mercado Pago",300000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",300000,30,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",300000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",300000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",300000,30,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",300000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,105000,863.01
+A. All in Stori on demand (SOFIPO),300000,30,50,Stori,SOFIPO,On demand,0,0.0725,300000,1787.67
+B. All in Nu Cajita (bank),300000,30,50,Nu,Bank,Cajita (on demand),0,0.065,300000,1602.74
+C. All in CETES (GBM),300000,30,50,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,300000,1516.44
+D. All in best SOFIPO fixed term,300000,30,50,Finsus,SOFIPO,Fixed term 30d,30,0.0719,300000,1772.88
+"E. Split, protected products only",300000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",300000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",300000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",300000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",300000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",300000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",300000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,155000,1273.97
+"F. Split, including Mercado Pago",300000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",300000,30,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",300000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",300000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",300000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",300000,30,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",300000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,105000,863.01
+A. All in Stori on demand (SOFIPO),300000,90,0,Stori,SOFIPO,On demand,0,0.0725,300000,5363.01
+B. All in Nu Cajita (bank),300000,90,0,Nu,Bank,Cajita (on demand),0,0.065,300000,4808.22
+C. All in CETES (GBM),300000,90,0,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,300000,4874.79
+D. All in best SOFIPO fixed term,300000,90,0,Stori,SOFIPO,Fixed term 90d,90,0.11,300000,8136.99
+"E. Split, protected products only",300000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",300000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",300000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",300000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",300000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",300000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",300000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,155000,3821.92
+"F. Split, including Mercado Pago",300000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",300000,90,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",300000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",300000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",300000,90,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",300000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,105000,2589.04
+A. All in Stori on demand (SOFIPO),300000,90,50,Stori,SOFIPO,On demand,0,0.0725,300000,5363.01
+B. All in Nu Cajita (bank),300000,90,50,Nu,Bank,Cajita (on demand),0,0.065,300000,4808.22
+C. All in CETES (GBM),300000,90,50,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,300000,4874.79
+D. All in best SOFIPO fixed term,300000,90,50,Stori,SOFIPO,Fixed term 90d,90,0.11,300000,8136.99
+"E. Split, protected products only",300000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",300000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",300000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",300000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",300000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",300000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",300000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,155000,3821.92
+"F. Split, including Mercado Pago",300000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",300000,90,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",300000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",300000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",300000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",300000,90,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",300000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,105000,2589.04
+A. All in Stori on demand (SOFIPO),300000,180,0,Stori,SOFIPO,On demand,0,0.0725,300000,10726.03
+B. All in Nu Cajita (bank),300000,180,0,Nu,Bank,Cajita (on demand),0,0.065,300000,9616.44
+C. All in CETES (GBM),300000,180,0,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,300000,10223.01
+D. All in best SOFIPO fixed term,300000,180,0,Stori,SOFIPO,Fixed term 180d,180,0.1,300000,14794.52
+"E. Split, protected products only",300000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"E. Split, protected products only",300000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"E. Split, protected products only",300000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"E. Split, protected products only",300000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"E. Split, protected products only",300000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"E. Split, protected products only",300000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"E. Split, protected products only",300000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,155000,7643.84
+"F. Split, including Mercado Pago",300000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",300000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"F. Split, including Mercado Pago",300000,180,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",300000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"F. Split, including Mercado Pago",300000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",300000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"F. Split, including Mercado Pago",300000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"F. Split, including Mercado Pago",300000,180,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1479.45
+"F. Split, including Mercado Pago",300000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,105000,5178.08
+A. All in Stori on demand (SOFIPO),300000,180,50,Stori,SOFIPO,On demand,0,0.0725,300000,10356.16
+B. All in Nu Cajita (bank),300000,180,50,Nu,Bank,Cajita (on demand),0,0.065,300000,9246.58
+C. All in CETES (GBM),300000,180,50,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,300000,10223.01
+D. All in best SOFIPO fixed term,300000,180,50,Stori,SOFIPO,Fixed term 180d,180,0.1,300000,14794.52
+"E. Split, protected products only",300000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"E. Split, protected products only",300000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"E. Split, protected products only",300000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"E. Split, protected products only",300000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"E. Split, protected products only",300000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"E. Split, protected products only",300000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"E. Split, protected products only",300000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,155000,7452.74
+"F. Split, including Mercado Pago",300000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",300000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"F. Split, including Mercado Pago",300000,180,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",300000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"F. Split, including Mercado Pago",300000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",300000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"F. Split, including Mercado Pago",300000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"F. Split, including Mercado Pago",300000,180,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1448.63
+"F. Split, including Mercado Pago",300000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,105000,5048.63
+A. All in Stori on demand (SOFIPO),300000,365,0,Stori,SOFIPO,On demand,0,0.0725,300000,21750.0
+B. All in Nu Cajita (bank),300000,365,0,Nu,Bank,Cajita (on demand),0,0.065,300000,19500.0
+C. All in CETES (GBM),300000,365,0,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,300000,21720.0
+D. All in best SOFIPO fixed term,300000,365,0,Finsus,SOFIPO,Fixed term 365d,365,0.0869,300000,26070.0
+"E. Split, protected products only",300000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"E. Split, protected products only",300000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"E. Split, protected products only",300000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"E. Split, protected products only",300000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"E. Split, protected products only",300000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"E. Split, protected products only",300000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"E. Split, protected products only",300000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,155000,15500.0
+"F. Split, including Mercado Pago",300000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",300000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"F. Split, including Mercado Pago",300000,365,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",300000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"F. Split, including Mercado Pago",300000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",300000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"F. Split, including Mercado Pago",300000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"F. Split, including Mercado Pago",300000,365,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,3000.0
+"F. Split, including Mercado Pago",300000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,105000,10500.0
+A. All in Stori on demand (SOFIPO),300000,365,50,Stori,SOFIPO,On demand,0,0.0725,300000,20619.86
+B. All in Nu Cajita (bank),300000,365,50,Nu,Bank,Cajita (on demand),0,0.065,300000,18369.86
+C. All in CETES (GBM),300000,365,50,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,300000,21720.0
+D. All in best SOFIPO fixed term,300000,365,50,Finsus,SOFIPO,Fixed term 365d,365,0.0869,300000,26070.0
+"E. Split, protected products only",300000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"E. Split, protected products only",300000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"E. Split, protected products only",300000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"E. Split, protected products only",300000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"E. Split, protected products only",300000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"E. Split, protected products only",300000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"E. Split, protected products only",300000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,155000,14916.1
+"F. Split, including Mercado Pago",300000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",300000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"F. Split, including Mercado Pago",300000,365,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",300000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"F. Split, including Mercado Pago",300000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",300000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"F. Split, including Mercado Pago",300000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"F. Split, including Mercado Pago",300000,365,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,2905.82
+"F. Split, including Mercado Pago",300000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,105000,10104.45
+A. All in Stori on demand (SOFIPO),500000,30,0,Stori,SOFIPO,On demand,0,0.0725,500000,2979.45
+B. All in Nu Cajita (bank),500000,30,0,Nu,Bank,Cajita (on demand),0,0.065,500000,2671.23
+C. All in CETES (GBM),500000,30,0,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,500000,2527.4
+D. All in best SOFIPO fixed term,500000,30,0,Finsus,SOFIPO,Fixed term 30d,30,0.0719,500000,2954.79
+"E. Split, protected products only",500000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",500000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",500000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",500000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",500000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",500000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",500000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,355000,2917.81
+"F. Split, including Mercado Pago",500000,30,0,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,0,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",500000,30,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,0,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",500000,30,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,0,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",500000,30,0,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",500000,30,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",500000,30,0,Mifel,Bank,Cuenta Digital,0,0.1,305000,2506.85
+A. All in Stori on demand (SOFIPO),500000,30,50,Stori,SOFIPO,On demand,0,0.0725,500000,2979.45
+B. All in Nu Cajita (bank),500000,30,50,Nu,Bank,Cajita (on demand),0,0.065,500000,2671.23
+C. All in CETES (GBM),500000,30,50,CETES (via GBM or Cetesdirecto),Government,CETES 28d,30,0.0615,500000,2527.4
+D. All in best SOFIPO fixed term,500000,30,50,Finsus,SOFIPO,Fixed term 30d,30,0.0719,500000,2954.79
+"E. Split, protected products only",500000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"E. Split, protected products only",500000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"E. Split, protected products only",500000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"E. Split, protected products only",500000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"E. Split, protected products only",500000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"E. Split, protected products only",500000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"E. Split, protected products only",500000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,355000,2917.81
+"F. Split, including Mercado Pago",500000,30,50,Revolut,Bank,Savings (on demand),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,50,Ualá,Bank,On demand (Plus),0,0.15,30000,369.86
+"F. Split, including Mercado Pago",500000,30,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,50,DiDi,SOFIPO,On demand,0,0.15,10000,123.29
+"F. Split, including Mercado Pago",500000,30,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,308.22
+"F. Split, including Mercado Pago",500000,30,50,Nu,Bank,Cajita Turbo,0,0.13,25000,267.12
+"F. Split, including Mercado Pago",500000,30,50,Openbank,Bank,Apartados Open,0,0.13,30000,320.55
+"F. Split, including Mercado Pago",500000,30,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,246.58
+"F. Split, including Mercado Pago",500000,30,50,Mifel,Bank,Cuenta Digital,0,0.1,305000,2506.85
+A. All in Stori on demand (SOFIPO),500000,90,0,Stori,SOFIPO,On demand,0,0.0725,500000,8938.36
+B. All in Nu Cajita (bank),500000,90,0,Nu,Bank,Cajita (on demand),0,0.065,500000,8013.7
+C. All in CETES (GBM),500000,90,0,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,500000,8124.66
+D. All in best SOFIPO fixed term,500000,90,0,Stori,SOFIPO,Fixed term 90d,90,0.11,500000,13561.64
+"E. Split, protected products only",500000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",500000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",500000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",500000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",500000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",500000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",500000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,355000,8753.42
+"F. Split, including Mercado Pago",500000,90,0,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,0,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",500000,90,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,0,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",500000,90,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,0,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",500000,90,0,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",500000,90,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",500000,90,0,Mifel,Bank,Cuenta Digital,0,0.1,305000,7520.55
+A. All in Stori on demand (SOFIPO),500000,90,50,Stori,SOFIPO,On demand,0,0.0725,500000,8938.36
+B. All in Nu Cajita (bank),500000,90,50,Nu,Bank,Cajita (on demand),0,0.065,500000,8013.7
+C. All in CETES (GBM),500000,90,50,CETES (via GBM or Cetesdirecto),Government,CETES 91d,90,0.0659,500000,8124.66
+D. All in best SOFIPO fixed term,500000,90,50,Stori,SOFIPO,Fixed term 90d,90,0.11,500000,13561.64
+"E. Split, protected products only",500000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"E. Split, protected products only",500000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"E. Split, protected products only",500000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"E. Split, protected products only",500000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"E. Split, protected products only",500000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"E. Split, protected products only",500000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"E. Split, protected products only",500000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,355000,8753.42
+"F. Split, including Mercado Pago",500000,90,50,Revolut,Bank,Savings (on demand),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,50,Ualá,Bank,On demand (Plus),0,0.15,30000,1109.59
+"F. Split, including Mercado Pago",500000,90,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,50,DiDi,SOFIPO,On demand,0,0.15,10000,369.86
+"F. Split, including Mercado Pago",500000,90,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,924.66
+"F. Split, including Mercado Pago",500000,90,50,Nu,Bank,Cajita Turbo,0,0.13,25000,801.37
+"F. Split, including Mercado Pago",500000,90,50,Openbank,Bank,Apartados Open,0,0.13,30000,961.64
+"F. Split, including Mercado Pago",500000,90,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,739.73
+"F. Split, including Mercado Pago",500000,90,50,Mifel,Bank,Cuenta Digital,0,0.1,305000,7520.55
+A. All in Stori on demand (SOFIPO),500000,180,0,Stori,SOFIPO,On demand,0,0.0725,500000,17876.71
+B. All in Nu Cajita (bank),500000,180,0,Nu,Bank,Cajita (on demand),0,0.065,500000,16027.4
+C. All in CETES (GBM),500000,180,0,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,500000,17038.36
+D. All in best SOFIPO fixed term,500000,180,0,Stori,SOFIPO,Fixed term 180d,180,0.1,500000,24657.53
+"E. Split, protected products only",500000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"E. Split, protected products only",500000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"E. Split, protected products only",500000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"E. Split, protected products only",500000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"E. Split, protected products only",500000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"E. Split, protected products only",500000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"E. Split, protected products only",500000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,355000,17506.85
+"F. Split, including Mercado Pago",500000,180,0,Revolut,Bank,Savings (on demand),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",500000,180,0,Ualá,Bank,On demand (Plus),0,0.15,30000,2219.18
+"F. Split, including Mercado Pago",500000,180,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",500000,180,0,DiDi,SOFIPO,On demand,0,0.15,10000,739.73
+"F. Split, including Mercado Pago",500000,180,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1849.32
+"F. Split, including Mercado Pago",500000,180,0,Nu,Bank,Cajita Turbo,0,0.13,25000,1602.74
+"F. Split, including Mercado Pago",500000,180,0,Openbank,Bank,Apartados Open,0,0.13,30000,1923.29
+"F. Split, including Mercado Pago",500000,180,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1479.45
+"F. Split, including Mercado Pago",500000,180,0,Mifel,Bank,Cuenta Digital,0,0.1,305000,15041.1
+A. All in Stori on demand (SOFIPO),500000,180,50,Stori,SOFIPO,On demand,0,0.0725,500000,17260.27
+B. All in Nu Cajita (bank),500000,180,50,Nu,Bank,Cajita (on demand),0,0.065,500000,15410.96
+C. All in CETES (GBM),500000,180,50,CETES (via GBM or Cetesdirecto),Government,CETES 182d,180,0.0691,500000,17038.36
+D. All in best SOFIPO fixed term,500000,180,50,Stori,SOFIPO,Fixed term 180d,180,0.1,500000,24657.53
+"E. Split, protected products only",500000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"E. Split, protected products only",500000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"E. Split, protected products only",500000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"E. Split, protected products only",500000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"E. Split, protected products only",500000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"E. Split, protected products only",500000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"E. Split, protected products only",500000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,355000,17069.18
+"F. Split, including Mercado Pago",500000,180,50,Revolut,Bank,Savings (on demand),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",500000,180,50,Ualá,Bank,On demand (Plus),0,0.15,30000,2182.19
+"F. Split, including Mercado Pago",500000,180,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",500000,180,50,DiDi,SOFIPO,On demand,0,0.15,10000,727.4
+"F. Split, including Mercado Pago",500000,180,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,1818.49
+"F. Split, including Mercado Pago",500000,180,50,Nu,Bank,Cajita Turbo,0,0.13,25000,1571.92
+"F. Split, including Mercado Pago",500000,180,50,Openbank,Bank,Apartados Open,0,0.13,30000,1886.3
+"F. Split, including Mercado Pago",500000,180,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,1448.63
+"F. Split, including Mercado Pago",500000,180,50,Mifel,Bank,Cuenta Digital,0,0.1,305000,14665.07
+A. All in Stori on demand (SOFIPO),500000,365,0,Stori,SOFIPO,On demand,0,0.0725,500000,36250.0
+B. All in Nu Cajita (bank),500000,365,0,Nu,Bank,Cajita (on demand),0,0.065,500000,32500.0
+C. All in CETES (GBM),500000,365,0,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,500000,36200.0
+D. All in best SOFIPO fixed term,500000,365,0,Finsus,SOFIPO,Fixed term 365d,365,0.0869,500000,43450.0
+"E. Split, protected products only",500000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"E. Split, protected products only",500000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"E. Split, protected products only",500000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"E. Split, protected products only",500000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"E. Split, protected products only",500000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"E. Split, protected products only",500000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"E. Split, protected products only",500000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,355000,35500.0
+"F. Split, including Mercado Pago",500000,365,0,Revolut,Bank,Savings (on demand),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",500000,365,0,Ualá,Bank,On demand (Plus),0,0.15,30000,4500.0
+"F. Split, including Mercado Pago",500000,365,0,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",500000,365,0,DiDi,SOFIPO,On demand,0,0.15,10000,1500.0
+"F. Split, including Mercado Pago",500000,365,0,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3750.0
+"F. Split, including Mercado Pago",500000,365,0,Nu,Bank,Cajita Turbo,0,0.13,25000,3250.0
+"F. Split, including Mercado Pago",500000,365,0,Openbank,Bank,Apartados Open,0,0.13,30000,3900.0
+"F. Split, including Mercado Pago",500000,365,0,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,3000.0
+"F. Split, including Mercado Pago",500000,365,0,Mifel,Bank,Cuenta Digital,0,0.1,305000,30500.0
+A. All in Stori on demand (SOFIPO),500000,365,50,Stori,SOFIPO,On demand,0,0.0725,500000,34366.44
+B. All in Nu Cajita (bank),500000,365,50,Nu,Bank,Cajita (on demand),0,0.065,500000,30616.44
+C. All in CETES (GBM),500000,365,50,CETES (via GBM or Cetesdirecto),Government,CETES 364d,365,0.0724,500000,36200.0
+D. All in best SOFIPO fixed term,500000,365,50,Finsus,SOFIPO,Fixed term 365d,365,0.0869,500000,43450.0
+"E. Split, protected products only",500000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"E. Split, protected products only",500000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"E. Split, protected products only",500000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"E. Split, protected products only",500000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"E. Split, protected products only",500000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"E. Split, protected products only",500000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"E. Split, protected products only",500000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,355000,34162.67
+"F. Split, including Mercado Pago",500000,365,50,Revolut,Bank,Savings (on demand),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",500000,365,50,Ualá,Bank,On demand (Plus),0,0.15,30000,4386.99
+"F. Split, including Mercado Pago",500000,365,50,Mercado Pago,Fintech,Apartados with Meli+,0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",500000,365,50,DiDi,SOFIPO,On demand,0,0.15,10000,1462.33
+"F. Split, including Mercado Pago",500000,365,50,Klar,SOFIPO,Inversión Max (Plus/Platino),0,0.15,25000,3655.82
+"F. Split, including Mercado Pago",500000,365,50,Nu,Bank,Cajita Turbo,0,0.13,25000,3155.82
+"F. Split, including Mercado Pago",500000,365,50,Openbank,Bank,Apartados Open,0,0.13,30000,3786.99
+"F. Split, including Mercado Pago",500000,365,50,Mercado Pago,Fintech,On demand (no Meli+),0,0.12,25000,2905.82
+"F. Split, including Mercado Pago",500000,365,50,Mifel,Bank,Cuenta Digital,0,0.1,305000,29351.03

@@ -1,0 +1,12 @@
+param,value,unit,notes,source_url,verified
+gbm_commission,0.0025,"per trade, on value",Up to 1M MXN traded in 3 months; plus IVA.,https://gbm.com/faqs/que-comisiones-cobran-al-invertir-en-gbm/,secondary
+iva,0.16,rate on commission,,https://gbm.com/faqs/que-comisiones-cobran-al-invertir-en-gbm/,yes
+sic_etf_expense_ratio,0.0003,annual,"VOO expense ratio, typical (not fetched).",,unverified
+ivvpeso_expense_ratio,0.0049,annual,,https://www.blackrock.com/mx/intermediarios/productos/268675/ishares-sp-500-peso-hedged-trac-fund,secondary
+hedge_carry_assumed,0.025,annual,Assumed MXN minus USD short-rate gap (Banxico 6.50% minus an assumed ~4% US rate). Edit this.,,assumption
+equity_gain_isr,0.1,rate on realized gain,"LISR art. 129 applies to BMV and SIC listed shares/ETFs; paid in the annual return, no withholding. Gain assumed measured in MXN (includes FX).",https://gbm.com/faqs/como-funcionan-los-impuestos-por-las-acciones-de-empresas-extranjeras-en-el-sic/,secondary
+spx_tr_2025,0.179,"total return, USD",,https://www.ftportfolios.com/Commentary/EconomicResearch/2026/1/8/the-sp-500-index-2025-recap,yes
+spx_tr_2026_ytd,0.1347,"total return, USD, to 2026-09-23",,https://chartrow.com/sp500/ytd,secondary
+usdmxn_2024_close,20.7862,MXN per USD,Derived: 2025 FIX close 18.0012 plus the reported 2.785 appreciation.,https://www.elfinanciero.com.mx/mercados/2025/12/31/peso-dolar-precio-hoy-31-de-diciembre-de-2025/,secondary (derived)
+usdmxn_2025_close,18.0012,MXN per USD,"FIX, El Financiero. DOF shows 17.9528 for the FIX published 2025-12-31.",https://www.elfinanciero.com.mx/mercados/2025/12/31/peso-dolar-precio-hoy-31-de-diciembre-de-2025/,secondary
+usdmxn_2026_09,17.2,MXN per USD,"Approximate spot, mid September 2026.",https://tradingeconomics.com/mexico/currency,approximate

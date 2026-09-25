@@ -1,0 +1,34 @@
+institution,product,term_days,rate_annual,balance_cap_mxn,rate_on_excess,needs_condition,include_default,monthly_fee_mxn,exempt_eligible,type,protection_limit_mxn
+Revolut,Savings (on demand),0,0.15,25000,0.07,yes,yes,0.0,unknown,Bank,3529545.6
+Ualá,On demand (Plus),0,0.15,30000,0.0675,yes,yes,0.0,unknown,Bank,3529545.6
+Mercado Pago,Apartados with Meli+,0,0.15,25000,0.0,yes (paid subscription),no,0.0,no,Fintech,
+Nu,Cajita Turbo,0,0.13,25000,0.065,yes,yes,0.0,yes,Bank,3529545.6
+DiDi,On demand,0,0.15,10000,,no,yes,0.0,yes,SOFIPO,220596.6
+Nu,Cajita (on demand),0,0.065,,,no,yes,0.0,yes,Bank,3529545.6
+Stori,On demand,0,0.0725,,,no,yes,0.0,yes,SOFIPO,220596.6
+Finsus,On demand,0,0.0701,,,no,yes,0.0,yes,SOFIPO,220596.6
+Stori,Fixed term 30d,30,0.0705,,,no,yes,0.0,yes,SOFIPO,220596.6
+Stori,Fixed term 90d,90,0.11,,,no,yes,0.0,yes,SOFIPO,220596.6
+Stori,Fixed term 180d,180,0.1,,,no,yes,0.0,yes,SOFIPO,220596.6
+Stori,Fixed term 365d,365,0.0825,,,no,yes,0.0,yes,SOFIPO,220596.6
+Finsus,Fixed term 30d,30,0.0719,,,no,yes,0.0,yes,SOFIPO,220596.6
+Finsus,Fixed term 90d,90,0.075,,,no,yes,0.0,yes,SOFIPO,220596.6
+Finsus,Fixed term 180d,180,0.0759,,,no,yes,0.0,yes,SOFIPO,220596.6
+Finsus,Fixed term 365d,365,0.0869,,,no,yes,0.0,yes,SOFIPO,220596.6
+Nu,Fixed term 180d,180,0.068,,,no,yes,0.0,no,Bank,3529545.6
+Kubo Financiero,Fixed term 90d,90,0.11,,,no,no (withdrawal risk),0.0,yes,SOFIPO,220596.6
+Kubo Financiero,Fixed term 365d,365,0.12,,,no,no (withdrawal risk),0.0,yes,SOFIPO,220596.6
+CETES (via GBM or Cetesdirecto),CETES 28d,30,0.0615,,,no,yes,0.0,no,Government,
+CETES (via GBM or Cetesdirecto),CETES 91d,90,0.0659,,,no,yes,0.0,no,Government,
+CETES (via GBM or Cetesdirecto),CETES 182d,180,0.0691,,,no,yes,0.0,no,Government,
+CETES (via GBM or Cetesdirecto),CETES 364d,365,0.0724,,,no,yes,0.0,no,Government,
+Openbank,Apartados Open,0,0.13,30000,0.07,no,yes,0.0,unknown,Bank,3529545.6
+Banco Plata,Ahorro Flexible (base),0,0.07,,,no,yes,0.0,unknown,Bank,3529545.6
+Banco Plata,Ahorro Flexible (Plata+),0,0.09,,,yes (99 MXN + IVA monthly),yes,114.84,unknown,Bank,3529545.6
+Banco Plata,Fixed term 360d (Plata+),365,0.11,,,yes (99 MXN + IVA monthly),yes,114.84,no,Bank,3529545.6
+Banco Plata,Ahorro Ultra (new accounts),0,0.15,25000,0.07,yes (first 60 days only),no,0.0,unknown,Bank,3529545.6
+Klar,Inversión Max (Plus/Platino),0,0.15,25000,0.08,"yes (2,500 monthly spend)",yes,0.0,yes,SOFIPO,220596.6
+Klar,On demand (Plus/Platino),0,0.08,,,yes,yes,0.0,yes,SOFIPO,220596.6
+Mifel,Cuenta Digital,0,0.1,500000,,no,yes,0.0,unknown,Bank,3529545.6
+Klar,Fixed term 365d (Plus/Platino),365,0.085,,,yes,yes,0.0,yes,SOFIPO,220596.6
+Mercado Pago,On demand (no Meli+),0,0.12,25000,0.0,yes,no,0.0,no,Fintech,

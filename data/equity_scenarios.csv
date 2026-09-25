@@ -1,0 +1,81 @@
+amount_mxn,vehicle,spx_scenario,spx_return_usd,fx_scenario,usdmxn_change,market_gain_mxn,trading_costs_mxn,isr_mxn,net_result_mxn,net_return,is_default_amount
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso +10% (USD/MXN -10%),-0.1,-11727.47,255.15,0.0,-11982.62,-0.23965,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso flat,0.0,-7491.03,267.44,0.0,-7758.46,-0.15517,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso -10% (USD/MXN +10%),0.1,-3254.59,279.72,0.0,-3534.31,-0.07069,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso +10% (USD/MXN -10%),-0.1,-4999.0,274.66,0.0,-5273.67,-0.10547,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso flat,0.0,-14.96,289.12,0.0,-304.07,-0.00608,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso -10% (USD/MXN +10%),0.1,4969.09,303.57,466.55,4198.97,0.08398,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso +10% (USD/MXN -10%),-0.1,-1410.49,285.07,0.0,-1695.56,-0.03391,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso flat,0.0,3972.28,300.68,367.16,3304.44,0.06609,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso -10% (USD/MXN +10%),0.1,9355.05,316.29,903.88,8134.88,0.1627,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso +10% (USD/MXN -10%),-0.1,3972.28,300.68,367.16,3304.44,0.06609,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso flat,0.0,9953.14,318.03,963.51,8671.6,0.17343,no
+50000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso -10% (USD/MXN +10%),0.1,15933.99,335.37,1559.86,14038.76,0.28078,no
+50000,S&P 500 via IVVPESO (peso hedged),Bear,-0.15,n/a (hedged),0.0,-6445.68,270.47,0.0,-6716.15,-0.13432,no
+50000,S&P 500 via IVVPESO (peso hedged),Flat,0.0,n/a (hedged),0.0,995.99,292.05,70.39,633.54,0.01267,no
+50000,S&P 500 via IVVPESO (peso hedged),Base,0.08,n/a (hedged),0.0,4964.88,303.56,466.13,4195.19,0.0839,no
+50000,S&P 500 via IVVPESO (peso hedged),Bull,0.2,n/a (hedged),0.0,10918.21,320.82,1059.74,9537.65,0.19075,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso +10% (USD/MXN -10%),-0.1,-23454.93,510.3,0.0,-23965.23,-0.23965,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso flat,0.0,-14982.05,534.87,0.0,-15516.93,-0.15517,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso -10% (USD/MXN +10%),0.1,-6509.17,559.45,0.0,-7068.62,-0.07069,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso +10% (USD/MXN -10%),-0.1,-9998.01,549.33,0.0,-10547.33,-0.10547,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso flat,0.0,-29.91,578.24,0.0,-608.15,-0.00608,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso -10% (USD/MXN +10%),0.1,9938.18,607.14,933.1,8397.93,0.08398,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso +10% (USD/MXN -10%),-0.1,-2820.98,570.14,0.0,-3391.12,-0.03391,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso flat,0.0,7944.56,601.36,734.32,6608.88,0.06609,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso -10% (USD/MXN +10%),0.1,18710.1,632.58,1807.75,16269.77,0.1627,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso +10% (USD/MXN -10%),-0.1,7944.56,601.36,734.32,6608.88,0.06609,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso flat,0.0,19906.27,636.05,1927.02,17343.2,0.17343,no
+100000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso -10% (USD/MXN +10%),0.1,31867.98,670.74,3119.72,28077.52,0.28078,no
+100000,S&P 500 via IVVPESO (peso hedged),Bear,-0.15,n/a (hedged),0.0,-12891.37,540.94,0.0,-13432.3,-0.13432,no
+100000,S&P 500 via IVVPESO (peso hedged),Flat,0.0,n/a (hedged),0.0,1991.97,584.1,140.79,1267.09,0.01267,no
+100000,S&P 500 via IVVPESO (peso hedged),Base,0.08,n/a (hedged),0.0,9929.75,607.12,932.26,8390.37,0.0839,no
+100000,S&P 500 via IVVPESO (peso hedged),Bull,0.2,n/a (hedged),0.0,21836.42,641.65,2119.48,19075.3,0.19075,no
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso +10% (USD/MXN -10%),-0.1,-46909.86,1020.61,0.0,-47930.47,-0.23965,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso flat,0.0,-29964.1,1069.75,0.0,-31033.85,-0.15517,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso -10% (USD/MXN +10%),0.1,-13018.35,1118.89,0.0,-14137.24,-0.07069,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso +10% (USD/MXN -10%),-0.1,-19996.01,1098.66,0.0,-21094.67,-0.10547,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso flat,0.0,-59.83,1156.47,0.0,-1216.3,-0.00608,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso -10% (USD/MXN +10%),0.1,19876.36,1214.29,1866.21,16795.86,0.08398,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso +10% (USD/MXN -10%),-0.1,-5641.96,1140.28,0.0,-6782.24,-0.03391,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso flat,0.0,15889.12,1202.72,1468.64,13217.76,0.06609,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso -10% (USD/MXN +10%),0.1,37420.2,1265.16,3615.5,32539.53,0.1627,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso +10% (USD/MXN -10%),-0.1,15889.12,1202.72,1468.64,13217.76,0.06609,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso flat,0.0,39812.54,1272.1,3854.04,34686.4,0.17343,yes
+200000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso -10% (USD/MXN +10%),0.1,63735.97,1341.48,6239.45,56155.04,0.28078,yes
+200000,S&P 500 via IVVPESO (peso hedged),Bear,-0.15,n/a (hedged),0.0,-25782.73,1081.88,0.0,-26864.61,-0.13432,yes
+200000,S&P 500 via IVVPESO (peso hedged),Flat,0.0,n/a (hedged),0.0,3983.95,1168.2,281.57,2534.17,0.01267,yes
+200000,S&P 500 via IVVPESO (peso hedged),Base,0.08,n/a (hedged),0.0,19859.51,1214.24,1864.53,16780.74,0.0839,yes
+200000,S&P 500 via IVVPESO (peso hedged),Bull,0.2,n/a (hedged),0.0,43672.85,1283.3,4238.96,38150.6,0.19075,yes
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso +10% (USD/MXN -10%),-0.1,-70364.79,1530.91,0.0,-71895.7,-0.23965,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso flat,0.0,-44946.16,1604.62,0.0,-46550.78,-0.15517,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso -10% (USD/MXN +10%),0.1,-19527.52,1678.34,0.0,-21205.86,-0.07069,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso +10% (USD/MXN -10%),-0.1,-29994.02,1647.99,0.0,-31642.0,-0.10547,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso flat,0.0,-89.74,1734.71,0.0,-1824.45,-0.00608,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso -10% (USD/MXN +10%),0.1,29814.54,1821.43,2799.31,25193.8,0.08398,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso +10% (USD/MXN -10%),-0.1,-8462.94,1710.43,0.0,-10173.36,-0.03391,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso flat,0.0,23833.68,1804.09,2202.96,19826.64,0.06609,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso -10% (USD/MXN +10%),0.1,56130.3,1897.75,5423.26,48809.3,0.1627,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso +10% (USD/MXN -10%),-0.1,23833.68,1804.09,2202.96,19826.64,0.06609,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso flat,0.0,59718.82,1908.15,5781.07,52029.6,0.17343,no
+300000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso -10% (USD/MXN +10%),0.1,95603.95,2012.22,9359.17,84232.56,0.28078,no
+300000,S&P 500 via IVVPESO (peso hedged),Bear,-0.15,n/a (hedged),0.0,-38674.1,1622.81,0.0,-40296.91,-0.13432,no
+300000,S&P 500 via IVVPESO (peso hedged),Flat,0.0,n/a (hedged),0.0,5975.92,1752.3,422.36,3801.26,0.01267,no
+300000,S&P 500 via IVVPESO (peso hedged),Base,0.08,n/a (hedged),0.0,29789.26,1821.36,2796.79,25171.11,0.0839,no
+300000,S&P 500 via IVVPESO (peso hedged),Bull,0.2,n/a (hedged),0.0,65509.27,1924.95,6358.43,57225.89,0.19075,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso +10% (USD/MXN -10%),-0.1,-117274.65,2551.52,0.0,-119826.17,-0.23965,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso flat,0.0,-74910.26,2674.37,0.0,-77584.63,-0.15517,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bear,-0.15,Peso -10% (USD/MXN +10%),0.1,-32545.87,2797.23,0.0,-35343.1,-0.07069,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso +10% (USD/MXN -10%),-0.1,-49990.03,2746.64,0.0,-52736.67,-0.10547,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso flat,0.0,-149.57,2891.18,0.0,-3040.75,-0.00608,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Flat,0.0,Peso -10% (USD/MXN +10%),0.1,49690.9,3035.72,4665.52,41989.66,0.08398,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso +10% (USD/MXN -10%),-0.1,-14104.9,2850.71,0.0,-16955.61,-0.03391,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso flat,0.0,39722.8,3006.81,3671.6,33044.39,0.06609,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Base,0.08,Peso -10% (USD/MXN +10%),0.1,93550.5,3162.91,9038.76,81348.83,0.1627,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso +10% (USD/MXN -10%),-0.1,39722.8,3006.81,3671.6,33044.39,0.06609,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso flat,0.0,99531.36,3180.26,9635.11,86715.99,0.17343,no
+500000,"S&P 500 via SIC (VOO/IVV, USD exposure)",Bull,0.2,Peso -10% (USD/MXN +10%),0.1,159339.91,3353.7,15598.62,140387.59,0.28078,no
+500000,S&P 500 via IVVPESO (peso hedged),Bear,-0.15,n/a (hedged),0.0,-64456.83,2704.69,0.0,-67161.51,-0.13432,no
+500000,S&P 500 via IVVPESO (peso hedged),Flat,0.0,n/a (hedged),0.0,9959.87,2920.5,703.94,6335.43,0.01267,no
+500000,S&P 500 via IVVPESO (peso hedged),Base,0.08,n/a (hedged),0.0,49648.77,3035.6,4661.32,41951.86,0.0839,no
+500000,S&P 500 via IVVPESO (peso hedged),Bull,0.2,n/a (hedged),0.0,109182.12,3208.24,10597.39,95376.49,0.19075,no

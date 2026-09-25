@@ -1,0 +1,12 @@
+param,value,unit,applies_from,notes,source_url,verified
+isr_withholding_rate,0.009,annual rate on invested capital,2026-01-01,"Provisional withholding, credited in the annual return (final tax is on real interest). LIF 2026; article number differs between sources (17 vs 24).",https://www.siemprecontable.net/blog/retencion-isr-intereses-2026,yes (secondary sources agree on 0.90%)
+isr_withholding_rate_2025,0.005,annual rate on invested capital,2025-01-01,"Previous year's rate, for comparison.",https://www.siemprecontable.net/blog/retencion-isr-intereses-2026,yes (secondary)
+uma_daily_2026,117.31,MXN,2026-02-01,"INEGI, DOF 2026-01-09.",https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf,yes
+uma_annual_2026,42794.64,MXN,2026-02-01,117.31 x 365 (rounded as published).,https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf,yes
+sofipo_exempt_limit_mxn,213973.2,MXN average daily balance,2026-02-01,"LISR art. 93 fr. XX: SOFIPO interest exempt if the average daily balance across all SOFIPOs is at most 5 annual UMAs; above it, only the excess is taxed.",https://es-us.noticias.yahoo.com/sofipos-impuestos-2026-cu%C3%A1nto-te-170000926.html,yes (secondary; statute not fetched directly)
+bank_savings_exemption,1,flag,,Art. 93 fr. XX also exempts interest from bank savings/deposit accounts up to the same 5 UMAs (not fixed terms). Whether a bank applies it varies; the Sep 2026 video says Nu's Cajita Turbo is not withheld while Nu fixed terms are. Other banks' on-demand accounts are marked 'unknown' and taxed in the model.,https://www.contadigital.mx/posts/isr-sobre-intereses-personas-fisicas,secondary + video
+udi_value,8.823864,MXN per UDI,2026-09-24,Changes daily with inflation.,https://calculadora-udi.com/,yes
+prosofipo_limit_udis,25000,UDIs,,"Per person, per SOFIPO.",https://www.gob.mx/cnbv/articulos/seguros-de-deposito-que-protegen-tus-ahorros-en-instituciones-reguladas-y-supervisadas-por-cnbv?idiom=es,yes (secondary)
+prosofipo_limit_mxn,220596.6,MXN,2026-09-24,"25,000 x UDI value.",https://calculadora-udi.com/,computed
+ipab_limit_udis,400000,UDIs,,"Per person, per bank.",https://www.gob.mx/cnbv/articulos/seguros-de-deposito-que-protegen-tus-ahorros-en-instituciones-reguladas-y-supervisadas-por-cnbv?idiom=es,yes (secondary)
+ipab_limit_mxn,3529545.6,MXN,2026-09-24,"400,000 x UDI value.",https://calculadora-udi.com/,computed

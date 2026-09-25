@@ -1,0 +1,241 @@
+strategy,amount_mxn,horizon_days,rate_shock_bp,gross_interest_mxn,isr_withheld_mxn,net_return_mxn,effective_net_rate,exempt_eligible_balance_mxn,taxable_balance_mxn,fully_protected,needs_conditions,is_default_amount
+A. All in Stori on demand (SOFIPO),50000,30,0,297.95,0.0,297.95,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,30,0,267.12,0.0,267.12,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,30,0,252.74,36.99,215.75,0.0525,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,30,0,295.48,0.0,295.48,0.0719,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,30,0,616.44,36.99,579.45,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,30,0,616.44,36.99,579.45,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,30,50,297.95,0.0,297.95,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,30,50,267.12,0.0,267.12,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,30,50,252.74,36.99,215.75,0.0525,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,30,50,295.48,0.0,295.48,0.0719,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,30,50,616.44,36.99,579.45,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,30,50,616.44,36.99,579.45,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,90,0,893.84,0.0,893.84,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,90,0,801.37,0.0,801.37,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,90,0,812.47,110.96,701.51,0.0569,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,90,0,1356.16,0.0,1356.16,0.11,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,90,0,1849.32,110.96,1738.36,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,90,0,1849.32,110.96,1738.36,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,90,50,893.84,0.0,893.84,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,90,50,801.37,0.0,801.37,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,90,50,812.47,110.96,701.51,0.0569,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,90,50,1356.16,0.0,1356.16,0.11,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,90,50,1849.32,110.96,1738.36,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,90,50,1849.32,110.96,1738.36,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,180,0,1787.67,0.0,1787.67,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,180,0,1602.74,0.0,1602.74,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,180,0,1703.84,221.92,1481.92,0.0601,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,180,0,2465.75,0.0,2465.75,0.1,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,180,0,3698.63,221.92,3476.71,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,180,0,3698.63,221.92,3476.71,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,180,50,1726.03,0.0,1726.03,0.07,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,180,50,1541.1,0.0,1541.1,0.0625,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,180,50,1703.84,221.92,1481.92,0.0601,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,180,50,2465.75,0.0,2465.75,0.1,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,180,50,3636.99,221.92,3415.07,0.1385,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,180,50,3636.99,221.92,3415.07,0.1385,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,365,0,3625.0,0.0,3625.0,0.0725,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,365,0,3250.0,0.0,3250.0,0.065,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,365,0,3620.0,450.0,3170.0,0.0634,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,365,0,4345.0,0.0,4345.0,0.0869,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,365,0,7500.0,450.0,7050.0,0.141,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,365,0,7500.0,450.0,7050.0,0.141,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),50000,365,50,3436.64,0.0,3436.64,0.06873,50000,0.0,yes,no,no
+B. All in Nu Cajita (bank),50000,365,50,3061.64,0.0,3061.64,0.06123,50000,0.0,yes,no,no
+C. All in CETES (GBM),50000,365,50,3620.0,450.0,3170.0,0.0634,0,50000.0,yes,no,no
+D. All in best SOFIPO fixed term,50000,365,50,4345.0,0.0,4345.0,0.0869,50000,0.0,yes,no,no
+"E. Split, protected products only",50000,365,50,7311.64,450.0,6861.64,0.13723,0,50000.0,yes,yes,no
+"F. Split, including Mercado Pago",50000,365,50,7311.64,450.0,6861.64,0.13723,0,50000.0,yes,yes,no
+A. All in Stori on demand (SOFIPO),100000,30,0,595.89,0.0,595.89,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,30,0,534.25,0.0,534.25,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,30,0,505.48,73.97,431.51,0.0525,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,30,0,590.96,0.0,590.96,0.0719,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,30,0,1216.44,40.68,1175.75,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,30,0,1232.88,59.18,1173.7,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,30,50,595.89,0.0,595.89,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,30,50,534.25,0.0,534.25,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,30,50,505.48,73.97,431.51,0.0525,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,30,50,590.96,0.0,590.96,0.0719,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,30,50,1216.44,40.68,1175.75,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,30,50,1232.88,59.18,1173.7,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,90,0,1787.67,0.0,1787.67,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,90,0,1602.74,0.0,1602.74,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,90,0,1624.93,221.92,1403.01,0.0569,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,90,0,2712.33,0.0,2712.33,0.11,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,90,0,3649.32,122.05,3527.26,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,90,0,3698.63,177.53,3521.1,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,90,50,1787.67,0.0,1787.67,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,90,50,1602.74,0.0,1602.74,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,90,50,1624.93,221.92,1403.01,0.0569,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,90,50,2712.33,0.0,2712.33,0.11,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,90,50,3649.32,122.05,3527.26,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,90,50,3698.63,177.53,3521.1,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,180,0,3575.34,0.0,3575.34,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,180,0,3205.48,0.0,3205.48,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,180,0,3407.67,443.84,2963.84,0.0601,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,180,0,4931.51,0.0,4931.51,0.1,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,180,0,7298.63,244.11,7054.52,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,180,0,7397.26,355.07,7042.19,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,180,50,3452.05,0.0,3452.05,0.07,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,180,50,3082.19,0.0,3082.19,0.0625,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,180,50,3407.67,443.84,2963.84,0.0601,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,180,50,4931.51,0.0,4931.51,0.1,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,180,50,7175.34,244.11,6931.23,0.14055,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,180,50,7273.97,355.07,6918.9,0.1403,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,365,0,7250.0,0.0,7250.0,0.0725,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,365,0,6500.0,0.0,6500.0,0.065,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,365,0,7240.0,900.0,6340.0,0.0634,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,365,0,8690.0,0.0,8690.0,0.0869,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,365,0,14800.0,495.0,14305.0,0.14305,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,365,0,15000.0,720.0,14280.0,0.1428,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),100000,365,50,6873.29,0.0,6873.29,0.06873,100000,0.0,yes,no,no
+B. All in Nu Cajita (bank),100000,365,50,6123.29,0.0,6123.29,0.06123,100000,0.0,yes,no,no
+C. All in CETES (GBM),100000,365,50,7240.0,900.0,6340.0,0.0634,0,100000.0,yes,no,no
+D. All in best SOFIPO fixed term,100000,365,50,8690.0,0.0,8690.0,0.0869,100000,0.0,yes,no,no
+"E. Split, protected products only",100000,365,50,14423.29,495.0,13928.29,0.13928,45000,55000.0,yes,yes,no
+"F. Split, including Mercado Pago",100000,365,50,14623.29,720.0,13903.29,0.13903,20000,80000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),200000,30,0,1191.78,0.0,1191.78,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,30,0,1068.49,0.0,1068.49,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,30,0,1010.96,147.95,863.01,0.0525,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,30,0,1181.92,0.0,1181.92,0.0719,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,30,0,2149.32,103.56,2045.75,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,30,0,2293.15,103.56,2189.59,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,30,50,1191.78,0.0,1191.78,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,30,50,1068.49,0.0,1068.49,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,30,50,1010.96,147.95,863.01,0.0525,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,30,50,1181.92,0.0,1181.92,0.0719,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,30,50,2149.32,103.56,2045.75,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,30,50,2293.15,103.56,2189.59,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,90,0,3575.34,0.0,3575.34,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,90,0,3205.48,0.0,3205.48,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,90,0,3249.86,443.84,2806.03,0.0569,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,90,0,5424.66,0.0,5424.66,0.11,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,90,0,6447.95,310.68,6137.26,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,90,0,6879.45,310.68,6568.77,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,90,50,3575.34,0.0,3575.34,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,90,50,3205.48,0.0,3205.48,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,90,50,3249.86,443.84,2806.03,0.0569,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,90,50,5424.66,0.0,5424.66,0.11,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,90,50,6447.95,310.68,6137.26,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,90,50,6879.45,310.68,6568.77,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,180,0,7150.68,0.0,7150.68,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,180,0,6410.96,0.0,6410.96,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,180,0,6815.34,887.67,5927.67,0.0601,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,180,0,9863.01,0.0,9863.01,0.1,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,180,0,12895.89,621.37,12274.52,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,180,0,13758.9,621.37,13137.53,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,180,50,6904.11,0.0,6904.11,0.07,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,180,50,6164.38,0.0,6164.38,0.0625,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,180,50,6815.34,887.67,5927.67,0.0601,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,180,50,9863.01,0.0,9863.01,0.1,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,180,50,12649.32,621.37,12027.95,0.12195,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,180,50,13512.33,621.37,12890.96,0.1307,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,365,0,14500.0,0.0,14500.0,0.0725,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,365,0,13000.0,0.0,13000.0,0.065,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,365,0,14480.0,1800.0,12680.0,0.0634,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,365,0,17380.0,0.0,17380.0,0.0869,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,365,0,26150.0,1260.0,24890.0,0.12445,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,365,0,27900.0,1260.0,26640.0,0.1332,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),200000,365,50,13746.58,0.0,13746.58,0.06873,200000,0.0,yes,no,yes
+B. All in Nu Cajita (bank),200000,365,50,12246.58,0.0,12246.58,0.06123,200000,0.0,yes,no,yes
+C. All in CETES (GBM),200000,365,50,14480.0,1800.0,12680.0,0.0634,0,200000.0,yes,no,yes
+D. All in best SOFIPO fixed term,200000,365,50,17380.0,0.0,17380.0,0.0869,200000,0.0,yes,no,yes
+"E. Split, protected products only",200000,365,50,25396.58,1260.0,24136.58,0.12068,60000,140000.0,yes,yes,yes
+"F. Split, including Mercado Pago",200000,365,50,27146.58,1260.0,25886.58,0.12943,60000,140000.0,no,yes,yes
+A. All in Stori on demand (SOFIPO),300000,30,0,1787.67,63.64,1724.03,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,30,0,1602.74,63.64,1539.1,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,30,0,1516.44,221.92,1294.52,0.0525,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,30,0,1772.88,63.64,1709.24,0.06932,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,30,0,2971.23,177.53,2793.7,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,30,0,3115.07,177.53,2937.53,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,30,50,1787.67,63.64,1724.03,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,30,50,1602.74,63.64,1539.1,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,30,50,1516.44,221.92,1294.52,0.0525,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,30,50,1772.88,63.64,1709.24,0.06932,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,30,50,2971.23,177.53,2793.7,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,30,50,3115.07,177.53,2937.53,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,90,0,5363.01,190.91,5172.1,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,90,0,4808.22,190.91,4617.31,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,90,0,4874.79,665.75,4209.04,0.0569,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,90,0,8136.99,190.91,7946.08,0.10742,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,90,0,8913.7,532.6,8381.1,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,90,0,9345.21,532.6,8812.6,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,90,50,5363.01,190.91,5172.1,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,90,50,4808.22,190.91,4617.31,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,90,50,4874.79,665.75,4209.04,0.0569,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,90,50,8136.99,190.91,7946.08,0.10742,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,90,50,8913.7,532.6,8381.1,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,90,50,9345.21,532.6,8812.6,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,180,0,10726.03,381.82,10344.21,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,180,0,9616.44,381.82,9234.62,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,180,0,10223.01,1331.51,8891.51,0.0601,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,180,0,14794.52,381.82,14412.7,0.09742,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,180,0,17827.4,1065.21,16762.19,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,180,0,18690.41,1065.21,17625.21,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,180,50,10356.16,381.82,9974.35,0.06742,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,180,50,9246.58,381.82,8864.76,0.05992,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,180,50,10223.01,1331.51,8891.51,0.0601,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,180,50,14794.52,381.82,14412.7,0.09742,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,180,50,17457.53,1065.21,16392.33,0.1108,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,180,50,18320.55,1065.21,17255.34,0.11663,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,365,0,21750.0,774.24,20975.76,0.06992,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,365,0,19500.0,774.24,18725.76,0.06242,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,365,0,21720.0,2700.0,19020.0,0.0634,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,365,0,26070.0,774.24,25295.76,0.08432,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,365,0,36150.0,2160.0,33990.0,0.1133,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,365,0,37900.0,2160.0,35740.0,0.11913,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),300000,365,50,20619.86,774.24,19845.62,0.06615,300000,86026.8,no,no,no
+B. All in Nu Cajita (bank),300000,365,50,18369.86,774.24,17595.62,0.05865,300000,86026.8,yes,no,no
+C. All in CETES (GBM),300000,365,50,21720.0,2700.0,19020.0,0.0634,0,300000.0,yes,no,no
+D. All in best SOFIPO fixed term,300000,365,50,26070.0,774.24,25295.76,0.08432,300000,86026.8,no,no,no
+"E. Split, protected products only",300000,365,50,35019.86,2160.0,32859.86,0.10953,60000,240000.0,yes,yes,no
+"F. Split, including Mercado Pago",300000,365,50,36769.86,2160.0,34609.86,0.11537,60000,240000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,30,0,2979.45,211.58,2767.87,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,30,0,2671.23,211.58,2459.65,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,30,0,2527.4,369.86,2157.53,0.0525,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,30,0,2954.79,211.58,2743.21,0.06675,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,30,0,4615.07,325.48,4289.59,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,30,0,4758.9,325.48,4433.42,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,30,50,2979.45,211.58,2767.87,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,30,50,2671.23,211.58,2459.65,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,30,50,2527.4,369.86,2157.53,0.0525,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,30,50,2954.79,211.58,2743.21,0.06675,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,30,50,4615.07,325.48,4289.59,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,30,50,4758.9,325.48,4433.42,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,90,0,8938.36,634.74,8303.61,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,90,0,8013.7,634.74,7378.95,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,90,0,8124.66,1109.59,7015.07,0.0569,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,90,0,13561.64,634.74,12926.9,0.10485,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,90,0,13845.21,976.44,12868.77,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,90,0,14276.71,976.44,13300.27,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,90,50,8938.36,634.74,8303.61,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,90,50,8013.7,634.74,7378.95,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,90,50,8124.66,1109.59,7015.07,0.0569,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,90,50,13561.64,634.74,12926.9,0.10485,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,90,50,13845.21,976.44,12868.77,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,90,50,14276.71,976.44,13300.27,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,180,0,17876.71,1269.49,16607.22,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,180,0,16027.4,1269.49,14757.91,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,180,0,17038.36,2219.18,14819.18,0.0601,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,180,0,24657.53,1269.49,23388.05,0.09485,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,180,0,27690.41,1952.88,25737.53,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,180,0,28553.42,1952.88,26600.55,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,180,50,17260.27,1269.49,15990.79,0.06485,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,180,50,15410.96,1269.49,14141.47,0.05735,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,180,50,17038.36,2219.18,14819.18,0.0601,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,180,50,24657.53,1269.49,23388.05,0.09485,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,180,50,27073.97,1952.88,25121.1,0.10188,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,180,50,27936.99,1952.88,25984.11,0.10538,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,365,0,36250.0,2574.24,33675.76,0.06735,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,365,0,32500.0,2574.24,29925.76,0.05985,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,365,0,36200.0,4500.0,31700.0,0.0634,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,365,0,43450.0,2574.24,40875.76,0.08175,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,365,0,56150.0,3960.0,52190.0,0.10438,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,365,0,57900.0,3960.0,53940.0,0.10788,60000,440000.0,no,yes,no
+A. All in Stori on demand (SOFIPO),500000,365,50,34366.44,2574.24,31792.2,0.06358,500000,286026.8,no,no,no
+B. All in Nu Cajita (bank),500000,365,50,30616.44,2574.24,28042.2,0.05608,500000,286026.8,yes,no,no
+C. All in CETES (GBM),500000,365,50,36200.0,4500.0,31700.0,0.0634,0,500000.0,yes,no,no
+D. All in best SOFIPO fixed term,500000,365,50,43450.0,2574.24,40875.76,0.08175,500000,286026.8,no,no,no
+"E. Split, protected products only",500000,365,50,54266.44,3960.0,50306.44,0.10061,60000,440000.0,yes,yes,no
+"F. Split, including Mercado Pago",500000,365,50,56016.44,3960.0,52056.44,0.10411,60000,440000.0,no,yes,no
