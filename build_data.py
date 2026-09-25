@@ -44,6 +44,7 @@ S = {
     "fx_fix_2025": "https://dof.gob.mx/indicadores_detalle.php?cod_tipo_indicador=158&dfecha=31%2F12%2F2025&hfecha=31%2F12%2F2025",
     "fx_now": "https://tradingeconomics.com/mexico/currency",
     "art93": "https://www.contadigital.mx/posts/isr-sobre-intereses-personas-fisicas",
+    "channel": "https://www.youtube.com/@miamigodinero",
 }
 # Germán Mi Amigo Dinero, monthly rate videos. Figures taken from spoken auto-captions only
 # (the on-screen tables are not in the captions), so each row is a statement made in the video.
@@ -79,7 +80,19 @@ TAX = [
      "Provisional withholding, credited in the annual return (final tax is on real interest). LIF 2026; article number differs between sources (17 vs 24).",
      S["isr"], "yes (secondary sources agree on 0.90%)"),
     ("isr_withholding_rate_2025", 0.005, "annual rate on invested capital", "2025-01-01",
-     "Previous year's rate, for comparison.", S["isr"], "yes (secondary)"),
+     "Previous year's rate, for comparison. Also stated in the Dec 2025 video (-rDq0PLHGs4).", S["isr"], "yes (secondary)"),
+    # earlier years, from the video series (history only; the model reads isr_withholding_rate)
+    ("isr_withholding_rate_2020", 0.0145, "annual rate on invested capital", "2020-01-01",
+     "History only. Matches the Ley de Ingresos rate; no video found for it.", "", "not verified in videos"),
+    ("isr_withholding_rate_2021", 0.0097, "annual rate on invested capital", "2021-01-01",
+     "History only.", "https://www.youtube.com/watch?v=RcEoeHDvND8", "video (auto-captions)"),
+    ("isr_withholding_rate_2022", 0.0008, "annual rate on invested capital", "2022-01-01",
+     "History only. Big cut from 2021.", "https://www.youtube.com/watch?v=RcEoeHDvND8", "video (auto-captions)"),
+    ("isr_withholding_rate_2023", 0.0015, "annual rate on invested capital", "2023-01-01",
+     "History only.", "https://www.youtube.com/watch?v=fn7DOZ3qKQ0", "video (auto-captions)"),
+    ("isr_withholding_rate_2024", 0.005, "annual rate on invested capital", "2024-01-01",
+     "History only. 1.48% was proposed first (https://www.youtube.com/watch?v=00F_xLy5eRk).",
+     "https://www.youtube.com/watch?v=Y9y3h_eOuGE", "video (auto-captions)"),
     ("uma_daily_2026", 117.31, "MXN", "2026-02-01", "INEGI, DOF 2026-01-09.", S["uma"], "yes"),
     ("uma_annual_2026", UMA_ANNUAL, "MXN", "2026-02-01", "117.31 x 365 (rounded as published).", S["uma"], "yes"),
     ("sofipo_exempt_limit_mxn", round(SOFIPO_EXEMPT, 2), "MXN average daily balance", "2026-02-01",
@@ -124,6 +137,9 @@ INST = [
     ("Finsus", "SOFIPO", "Prosofipo", PROSOFIPO_MXN, "", S["tasas"], "yes"),
     ("Kubo Financiero", "SOFIPO", "Prosofipo", PROSOFIPO_MXN,
      "Users reported blocked withdrawals in May-June 2026. Excluded from the default strategies.", S["decero"], "yes"),
+    ("Supertasas", "SOFIPO", "Prosofipo", PROSOFIPO_MXN,
+     "Covered only through the Germán Mi Amigo Dinero video series (rate history only, no current product). Mostly fixed terms.",
+     S["channel"], "video only"),
     ("CETES (via GBM or Cetesdirecto)", "Government", "Federal government", "",
      "Government debt, no deposit insurance needed. Buying through GBM may add fees (not modeled). Withholding assumed at the 0.90% rate.",
      S["tasas"], "rates yes; GBM fees unverified"),
@@ -210,6 +226,102 @@ hv("2026-09-05", "Mercado Pago", "On demand (no Meli+)", 0, 0.12, 25000, 0.0, "D
 hv("2026-09-05", "Kubo Financiero", "1-day term", 1, 0.10, "", "", "Cut from 13%")
 hv("2026-09-05", "Finsus", "Cosecha 4 months", 120, 0.11, "", "", "No membership")
 hv("2026-09-05", "DiDi", "On demand", 0, 0.15, 10000, "", "Only 15% with no condition or time limit")
+
+# Same channel, earlier monthly roundups (Mar 2023 - Feb 2026) and 2026 topic videos, from the
+# hand-checked tables of the 402-video review. Keyed by video id because some share a date.
+# Term left blank ("") when the video does not state it; a range keeps its top value.
+VX = {
+    "gmy1pM3RSQY": ("2023-03-02", "¿Quién PAGA MÁS en cada plazo? (Marzo 2023)"),
+    "qABJs5rFw7A": ("2023-04-02", "¿Quién PAGA MÁS en ABRIL 2023? CETES, SOFIPOS, Hey Banco, mercado pago, etc."),
+    "mx8pE7Ohydk": ("2023-06-02", "¿Quién PAGA MÁS en JUNIO 2023? CETES, SOFIPOS, Hey Banco, KLAR, etc."),
+    "0UVRneDYElU": ("2023-08-03", "CETES detienen su caída! - ¿Quién PAGA MÁS en Agosto 2023?"),
+    "_JHrncIaD2k": ("2023-11-03", "¿Quién PAGA MÁS en noviembre 2023? - Opciones con 15% de rendimiento, 200% más ISR"),
+    "JWT4v1Y1v9A": ("2024-01-03", "¿Quién PAGA MÁS en ENERO 2024? - CETES y FINAMEX bajan"),
+    "4t6Kf4HouwU": ("2024-02-02", "¿Quién PAGA MÁS en FEBRERO 2024? - Cajitas en NU, KLAR sube mucho, DINN baja tasa"),
+    "eFXqSq8hqS8": ("2024-03-02", "¿Quién PAGA MÁS en MARZO 2024? - CETES bajan, Finsus sube a 16%, ¿Banxico bajará?"),
+    "axxIJ237U9s": ("2024-04-02", "¿Quién PAGA MÁS en ABRIL 2024? - CAÍDAS por todos lados"),
+    "D92SpdExA9k": ("2024-05-02", "¿Quién PAGA MÁS en MAYO 2024? - SIGUEN LAS CAÍDAS"),
+    "pNDU4jQxVac": ("2024-08-03", "¿Quién PAGA MÁS en AGOSTO 2024? - Los CETES quedan a deber"),
+    "Ju5oYtKpAKo": ("2024-10-03", "¿Quién PAGA MÁS en OCTUBRE 2024? - NU baja tasas, meli dólar llega, stori tiene plazos"),
+    "3nRL92xKGy0": ("2025-01-04", "¿Quién PAGA MÁS en ENERO 2025? - CETES recupera el 10%, NU baja tasas, KLAR cambia mucho"),
+    "Om-l5Akl7to": ("2025-02-04", "¿Quién PAGA MÁS en FEBRERO 2025? - NU domina, ARANCELES, y constancias de impuestos"),
+    "l7D2bz8tBtg": ("2025-04-03", "¿Quién PAGA MÁS en ABRIL 2025? - CETES CAEN, Now Bank es nueva opción, NU cambia de tasa pronto"),
+    "AH2vQLe0dQQ": ("2025-05-03", "¿Quién PAGA MÁS en MAYO 2025? - SOFIPO quiebra, mercado pago baja, NU será banco"),
+    "w1QWl47g0uc": ("2025-06-05", "¿Quién PAGA MÁS en JUNIO 2025? - DIDI dará 15%, Novedades en NU, KLAR baja tasas"),
+    "3qbfW5NrZog": ("2025-07-03", "¿Quién PAGA MÁS en JULIO 2025? - Cashback en NU+, 16% en ualá, didi al 15%"),
+    "w8--F9sqbVw": ("2025-08-05", "¿Quién PAGA MÁS en AGOSTO 2025? - DESPLOME en NU, Stori, KLAR, los CETES se recuperan"),
+    "ivm1_uAzvuY": ("2026-04-09", "NU ya se RINDIÓ, aquí GANAS MÁS"),
+    "XTDcKIUcak4": ("2026-06-24", "Adiós Revolut: Se nos Cayó un Grande!"),
+    "UurM0cORmNI": ("2026-07-02", "Revolut se Rindió. Estas son las Alternativas."),
+    "ABZytAfldQk": ("2026-07-11", "KUBO Lanza una \"Cajita Turbo\" SIN TOPE!!"),
+    "U6m5NDabFec": ("2026-07-16", "Las Mejores Inversiones en 2026, Rankeadas"),
+    "jzhrIrAru-E": ("2026-07-30", "Fue un ERROR Aceptar las Inversiones Topadas"),
+    "pkGJ4boI6tk": ("2026-08-07", "Cambios en las Cajitas NU Explicados"),
+    "FnZBsYYLf4k": ("2026-08-24", "La Didi Cuenta Debería Preocuparnos"),
+    "hvP_dB63NT8": ("2026-09-17", "Así Ganas $6,297.04 al Mes Sin Hacer Nada"),
+}
+def hx(vid, inst, prod, term, rate, cap="", excess="", cond=""):
+    date, title = VX[vid]
+    src = f"Germán Mi Amigo Dinero, {title}, {date}, https://www.youtube.com/watch?v={vid}"
+    h(date, inst, prod, term, rate, cap, excess, cond, src, "video (auto-captions)")
+HR = "Headline rate (video)"
+NT = "term not stated in video"
+NS = "Nu was a SOFIPO at this date"
+# 2023: Finsus fixed terms lead, Stori starts the 15% era
+hx("gmy1pM3RSQY", "Finsus", HR, "", 0.13, cond=f"Fixed terms, 11-13% by term; {NT}")
+hx("qABJs5rFw7A", "Finsus", HR, "", 0.11, cond=f"Fixed terms, 10-11%; {NT}")
+hx("mx8pE7Ohydk", "Finsus", HR, "", 0.14, cond=NT)
+hx("0UVRneDYElU", "Finsus", HR, "", 0.1455, cond=f"Fixed term; {NT}")
+hx("_JHrncIaD2k", "Finsus", HR, "", 0.15, cond=f"Fixed term; {NT}")
+hx("_JHrncIaD2k", "Stori", "On demand", 0, 0.15, cond="No cap, no conditions; start of the 15% rate war")
+# 2024: the 15% era, then cuts from April
+hx("JWT4v1Y1v9A", "Nu", HR, "", 0.15, cond=f"{NT}; {NS}")
+hx("4t6Kf4HouwU", "Klar", "On demand", 0, 0.15, cond="Klar rises a lot this month")
+hx("4t6Kf4HouwU", "Supertasas", HR, "", 0.09, cond=f"Mostly fixed terms; {NT}")
+hx("eFXqSq8hqS8", "Nu", "Cajita (on demand)", 0, 0.15, cond=f"Cajitas launched Feb 2024; {NS}")
+hx("eFXqSq8hqS8", "Stori", "On demand", 0, 0.15)
+hx("eFXqSq8hqS8", "Finsus", HR, "", 0.16, cond=f"Long fixed terms; {NT}")
+hx("axxIJ237U9s", "Nu", "Cajita (on demand)", 0, 0.15, cond=NS)
+hx("axxIJ237U9s", "Finsus", HR, "", 0.15, cond=f"Fixed term; {NT}")
+hx("D92SpdExA9k", "Klar", "On demand", 0, 0.15)
+hx("pNDU4jQxVac", "Nu", HR, "", 0.15, cond=f"{NT}; {NS}")
+hx("pNDU4jQxVac", "Klar", "On demand", 0, 0.10)
+hx("Ju5oYtKpAKo", "Stori", HR, "", 0.15, cond=f"Stori adds fixed terms this month; {NT}")
+# 2025: 15% only capped or conditional
+hx("3nRL92xKGy0", "Klar", "On demand", 0, 0.10, cond="Depends on account level")
+hx("Om-l5Akl7to", "Stori", HR, "", 0.15, cond=f"Fixed term; {NT}")
+hx("l7D2bz8tBtg", "Nu", HR, "", 0.14, cond=f"{NT}; {NS}")
+hx("AH2vQLe0dQQ", "Nu", HR, "", 0.15, cond=f"9-15% depending on product and cap; {NT}; {NS}")
+hx("w1QWl47g0uc", "DiDi", "On demand", 0, 0.15, cond="Announced: DiDi to pay 15%")
+hx("3qbfW5NrZog", "Nu", HR, "", 0.14, cond=f"12-14%, capped; {NT}; {NS}")
+hx("3qbfW5NrZog", "Finsus", HR, "", 0.14, cond=f"Fixed term; {NT}")
+hx("3qbfW5NrZog", "Stori", HR, "", 0.08, cond=NT)
+hx("w8--F9sqbVw", "Nu", HR, "", 0.08, cond=f"Sharp drop; {NT}; {NS}")
+hx("w8--F9sqbVw", "Klar", "On demand", 0, 0.06, cond="Sharp drop; base level")
+# Oct 2025 - Feb 2026 roundups: figures not already recorded above
+hv("2025-10-04", "Kubo Financiero", HR, "", 0.14, cond=NT)
+hv("2025-10-04", "Stori", HR, "", 0.125, cond=f"5-12.5% across products; {NT}")
+hv("2025-11-04", "Finsus", HR, "", 0.09, cond=f"8-9%; {NT}")
+hv("2025-11-04", "Kubo Financiero", HR, "", 0.085, cond=NT)
+hv("2025-12-03", "Stori", HR, "", 0.15, cond=f"Stori rises a lot; {NT}")
+hv("2025-12-03", "Finsus", HR, "", 0.135, cond=NT)
+hv("2026-01-07", "Nu", "Cajita (on demand)", 0, 0.07, cond=f"Nu cuts; {NS}")
+hv("2026-01-07", "Finsus", HR, "", 0.07, cond=NT)
+hv("2026-02-04", "Kubo Financiero", HR, "", 0.1325, cond=NT)
+# 2026 topic videos: caps, requirements and what sits behind the headline
+hx("ivm1_uAzvuY", "Supertasas", HR, "", 0.076, cond=f"7.0-7.6% mentioned; mostly fixed terms; {NT}")
+hv("2026-06-04", "Stori", "Fixed term 90d", 90, 0.105, cond="No requirement")
+hx("XTDcKIUcak4", "Nu", "Cajita Turbo", 0, 0.13, cond=f"Capped (amount not stated) with an activation condition; {NS}")
+hx("UurM0cORmNI", "Nu", "Cajita Turbo", 0, 0.13, cond=f"Capped (amount not stated) with an activation condition; {NS}")
+hv("2026-07-05", "Kubo Financiero", "On demand", 0, 0.12, 25000, "", "About 3,000 MXN monthly deposits; cut to 12% this month")
+hx("ABZytAfldQk", "Kubo Financiero", "Cajita Turbo", 0, 0.13, cond="No cap")
+hx("U6m5NDabFec", "DiDi", "On demand", 0, 0.15, 10000, 0.075, "Excess about 7.5%; about 12.3% blended at 15,000; paid daily")
+hx("jzhrIrAru-E", "Stori", "Fixed term 90d", 90, 0.10, cond="No requirement")
+hx("jzhrIrAru-E", "Stori", "Fixed term 180d", 180, 0.10, cond="No requirement")
+hv("2026-08-07", "Finsus", "Fixed term 120d (membership)", 120, 0.115, cond="Paid membership, about 500 MXN a year")
+hx("pkGJ4boI6tk", "Nu", "Cajita (on demand)", 0, 0.06, cond="Regular Cajitas; Nu a bank since 2026-08-06")
+hx("FnZBsYYLf4k", "DiDi", "On demand", 0, 0.15, 10000, 0.075, "Excess about 7.5%")
+hx("hvP_dB63NT8", "Klar", HR, 0, 0.13, cond="13% tier tied to a 2,500 MXN requirement; terms got worse this month")
 
 # Sep 24 2026 snapshot
 s = ACC

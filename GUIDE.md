@@ -12,7 +12,7 @@ Learning project only, not financial advice. See the disclaimer in README.md.
 
 | Rule | Value (2026) | Where it is |
 |---|---|---|
-| ISR provisional withholding | 0.90% per year, charged on the **capital**, not on the interest | `tax_params` |
+| ISR provisional withholding | 0.90% per year, charged on the **capital**, not on the interest | `tax_params` (earlier years, 2020 to 2025, as `isr_withholding_rate_2020` and so on) |
 | 5-UMA exemption (LISR art. 93 fr. XX) | Interest is exempt on an average daily balance up to 5 annual UMAs = **213,973.20 MXN**, counted across all eligible balances. Above that, only the excess is withheld. Eligible: every SOFIPO product, and bank **on-demand savings** accounts when the bank applies it (Nu confirmed; other banks marked `unknown` and taxed in the model). Bank fixed terms, CETES and fintechs: not eligible. | `tax_params`, `products_current[exempt_eligible]` |
 | Prosofipo protection | 25,000 UDIs per person per SOFIPO, about **220,597 MXN** | `tax_params` |
 | IPAB protection (banks) | 400,000 UDIs per person per bank, about 3.53 million MXN | `tax_params` |
@@ -157,7 +157,7 @@ Create a new report from the semantic model (**Create report**). Build three pag
 ### Page 1: "How rates moved"
 
 - **Line chart:** X axis `banxico_monthly[month_end]`, Y axis `banxico_monthly[target_rate]`. Title: "Banxico target rate, 2024 to 2026".
-- **Line or scatter chart:** X axis `rates_history[date]`, Y axis average of `rates_history[rate_annual]`, legend `rates_history[institution]`. Add a slicer on `rates_history[term_days]` and set it to 0 (on demand) so you compare like with like. The history is sparse (snapshots in Feb, Jul, Aug and Sep 2026), so turn on markers.
+- **Line or scatter chart:** X axis `rates_history[date]`, Y axis average of `rates_history[rate_annual]`, legend `rates_history[institution]`. Add a slicer on `rates_history[term_days]` and set it to 0 (on demand) so you compare like with like. The history runs from March 2023: the Germán Mi Amigo Dinero monthly roundups (402 videos on the channel were reviewed) plus snapshots in Feb, Jul, Aug and Sep 2026. It is sparse, so turn on markers. Supertasas appears only here. Rows where the video did not state a term have a blank `term_days`, and a range slicer set to 0 still lets blanks through, so add a visual-level filter `term_days` is not blank if you want on-demand rows only.
 - **Card:** the latest Banxico rate. **Text box:** 2 lines on what you see. Example: Banxico cut from 11.25% to 6.50% since early 2024; fintech base rates followed it down (Nu's on-demand rate went from 7.00% in February to 6.50% by July), while promotional rates on small balances stayed at 13 to 15%.
 
 ### Page 2: "Where to put 200,000"

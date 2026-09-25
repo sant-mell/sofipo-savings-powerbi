@@ -79,14 +79,14 @@ All figures were collected on 2026-09-24. Every row in the CSVs has its own `sou
 - GBM FAQs (commissions, SIC taxation), BlackRock (IVVPESO), First Trust (S&P 500 2025 total return), ChartRow (2026 year to date), El Financiero and DOF (USD/MXN FIX), Trading Economics (current USD/MXN)
 
 **Known gaps:**
-- DiDi: the rate on balances above its 10,000 cap was not found in any source, including the videos. The model treats it as 0.
+- DiDi: the rate on balances above its 10,000 cap (about 7.5%) appears only in the Jul-Aug 2026 videos. It is recorded in `rates_history.csv`, but the model still treats it as 0.
 - Mercado Pago: balances above the 25,000 cap earn nothing (Sep 2026 video). Deposit protection is not reported, and its tax treatment is assumed to be the same as a bank's.
 - Mifel: the only source is the video series (about 10% up to 500,000). Check the official site before relying on it.
 - Bank savings exemption: confirmed only for Nu. Revolut, Ualá, Openbank, Plata and Mifel on-demand accounts are marked `unknown` and taxed, which may understate them.
 - S&P 500: the hedge carry (2.5%) is an assumption, the current USD/MXN (17.20) is approximate, US dividend withholding is ignored, and the SIC tax base is assumed to include the currency effect.
 - GBM: commissions are not included in the CETES line.
 - Kubo Financiero: shown in the data but excluded from the default strategies after users reported blocked withdrawals in May and June 2026.
-- The rate history is a series of snapshots, not a continuous daily series.
+- The rate history is a series of snapshots, not a continuous daily series. Before 2026 it relies on one video series, and many rows are headline rates whose term the video did not state (blank `term_days`).
 
 ## Limitations
 

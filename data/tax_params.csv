@@ -1,6 +1,11 @@
 param,value,unit,applies_from,notes,source_url,verified
 isr_withholding_rate,0.009,annual rate on invested capital,2026-01-01,"Provisional withholding, credited in the annual return (final tax is on real interest). LIF 2026; article number differs between sources (17 vs 24).",https://www.siemprecontable.net/blog/retencion-isr-intereses-2026,yes (secondary sources agree on 0.90%)
-isr_withholding_rate_2025,0.005,annual rate on invested capital,2025-01-01,"Previous year's rate, for comparison.",https://www.siemprecontable.net/blog/retencion-isr-intereses-2026,yes (secondary)
+isr_withholding_rate_2025,0.005,annual rate on invested capital,2025-01-01,"Previous year's rate, for comparison. Also stated in the Dec 2025 video (-rDq0PLHGs4).",https://www.siemprecontable.net/blog/retencion-isr-intereses-2026,yes (secondary)
+isr_withholding_rate_2020,0.0145,annual rate on invested capital,2020-01-01,History only. Matches the Ley de Ingresos rate; no video found for it.,,not verified in videos
+isr_withholding_rate_2021,0.0097,annual rate on invested capital,2021-01-01,History only.,https://www.youtube.com/watch?v=RcEoeHDvND8,video (auto-captions)
+isr_withholding_rate_2022,0.0008,annual rate on invested capital,2022-01-01,History only. Big cut from 2021.,https://www.youtube.com/watch?v=RcEoeHDvND8,video (auto-captions)
+isr_withholding_rate_2023,0.0015,annual rate on invested capital,2023-01-01,History only.,https://www.youtube.com/watch?v=fn7DOZ3qKQ0,video (auto-captions)
+isr_withholding_rate_2024,0.005,annual rate on invested capital,2024-01-01,History only. 1.48% was proposed first (https://www.youtube.com/watch?v=00F_xLy5eRk).,https://www.youtube.com/watch?v=Y9y3h_eOuGE,video (auto-captions)
 uma_daily_2026,117.31,MXN,2026-02-01,"INEGI, DOF 2026-01-09.",https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf,yes
 uma_annual_2026,42794.64,MXN,2026-02-01,117.31 x 365 (rounded as published).,https://www.inegi.org.mx/contenidos/saladeprensa/boletines/2026/uma/uma2026.pdf,yes
 sofipo_exempt_limit_mxn,213973.2,MXN average daily balance,2026-02-01,"LISR art. 93 fr. XX: SOFIPO interest exempt if the average daily balance across all SOFIPOs is at most 5 annual UMAs; above it, only the excess is taxed.",https://es-us.noticias.yahoo.com/sofipos-impuestos-2026-cu%C3%A1nto-te-170000926.html,yes (secondary; statute not fetched directly)
